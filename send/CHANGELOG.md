@@ -11,3 +11,4 @@
 - `notifiche_per_mese.csv`
 - `notifiche_per_mese.json`
 - `notifiche_per_mese.md`
+- `opendata.rdf`
