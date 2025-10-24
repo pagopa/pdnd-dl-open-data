@@ -1,3 +1,21 @@
+## Changes on 2025-10-24 11:38 UTC
+
+### Created
+
+- `notifiche_per_mese.md`
+- `distribuzione_geografica_comuni.md`
+- `distribuzione_ambiti_notifiche.md`
+- `distribuzione_messaggi.md`
+- `distribuzione_geografica_enti.md`
+- `opendata.rdf`
+- `distribuzione_messaggi.json`
+- `distribuzione_messaggi.csv`
+- `distribuzione_geografica_enti.json`
+- `distribuzione_geografica_enti.csv`
+- `transazioni_riepilogo.md`
+- `transazioni_per_mese.md`
+- `transazioni_fasce_importo.md`
+
 ## Changes on 2025-10-23 11:43 UTC
 
 ### Created
