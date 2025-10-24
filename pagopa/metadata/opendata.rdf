@@ -20,8 +20,8 @@
       <dct:title>Data Theme Vocabulary</dct:title>
     </skos:ConceptScheme>
   </dcat:themeTaxonomy>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-23</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-23</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-24</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-24</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
   <dcat:dataset rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/pagopa/data/transazioni_riepilogo.md"/>
 <dcat:dataset rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/pagopa/data/transazioni_per_mese.md"/>
@@ -38,7 +38,7 @@
   <dct:description>Numero di transazioni, enti creditori e valore economico della piattaforma pagoPA, suddivisi per anno ed a partire dalla data di avvio del servizio (2016)</dct:description>
   <dct:identifier>5N2TR557:transazioni_riepilogo</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
-  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri/"/>
+  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri"/>
   <dct:rightsHolder>
     <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -57,9 +57,9 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-23</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-23</dct:issued>
-  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-24</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-24</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri"/>
   <dcat:keyword>pagoPA</dcat:keyword>
 <dcat:keyword>pagamenti</dcat:keyword>
 <dcat:keyword>transazioni</dcat:keyword>
@@ -78,7 +78,7 @@
   <dct:description>Numero di transazioni suddivise per mese e categoria di ente creditore (specifica o complessiva)</dct:description>
   <dct:identifier>5N2TR557:transazioni_per_mese</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
-  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri/"/>
+  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri"/>
   <dct:rightsHolder>
     <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -97,9 +97,9 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-23</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-23</dct:issued>
-  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-24</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-24</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri"/>
   <dcat:keyword>pagoPA</dcat:keyword>
 <dcat:keyword>pagamenti</dcat:keyword>
 <dcat:keyword>transazioni</dcat:keyword>
@@ -118,7 +118,7 @@
   <dct:description>Numero di transazioni suddivise per fascia di importo, per categoria di ente creditore (specifica o complessiva), per anno ed a partire dalla data di avvio del servizio (2016)</dct:description>
   <dct:identifier>5N2TR557:transazioni_fasce_importo</dct:identifier>
   <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
-  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri/"/>
+  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri"/>
   <dct:rightsHolder>
     <dcatapit:Agent rdf:about="5N2TR557">
       <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
@@ -137,9 +137,9 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-23</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-23</dct:issued>
-  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-24</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2025-10-24</dct:issued>
+  <dcat:contactPoint rdf:resource="https://www.pagopa.gov.it/it/numeri"/>
   <dcat:keyword>pagoPA</dcat:keyword>
 <dcat:keyword>pagamenti</dcat:keyword>
 <dcat:keyword>transazioni</dcat:keyword>
@@ -242,7 +242,7 @@
 
 
         
-<dcatapit:Organization rdf:about="https://www.pagopa.it/it/">
+<dcatapit:Organization rdf:about="https://www.pagopa.gov.it/it/numeri">
   <rdf:type rdf:resource="vcard:Organization"/>
   <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
   <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
@@ -250,7 +250,7 @@
   <rdf:type rdf:resource="vcard:Kind"/>
   <vcard:fn>PagoPA S.p.A.</vcard:fn>
   <vcard:hasEmail rdf:resource="opendata@pagopa.it"/>
-  <vcard:hasURL rdf:resource="https://www.pagopa.it/it/"/>
+  <vcard:hasURL rdf:resource="https://www.pagopa.gov.it/it/numeri"/>
 </dcatapit:Organization>
     
 </rdf:RDF>
