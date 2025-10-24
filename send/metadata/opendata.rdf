@@ -245,7 +245,7 @@
 
 
         
-<dcatapit:Organization rdf:about="https://ioapp.it/numeri">
+<dcatapit:Organization rdf:about="https://notifichedigitali.it/numeri">
   <rdf:type rdf:resource="vcard:Organization"/>
   <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
   <rdf:type rdf:resource="http://www.w3.org/2006/vcard/ns#Kind"/>
@@ -253,7 +253,7 @@
   <rdf:type rdf:resource="vcard:Kind"/>
   <vcard:fn>PagoPA S.p.A.</vcard:fn>
   <vcard:hasEmail rdf:resource="opendata@pagopa.it"/>
-  <vcard:hasURL rdf:resource="https://ioapp.it/numeri"/>
+  <vcard:hasURL rdf:resource="https://notifichedigitali.it/numeri"/>
 </dcatapit:Organization>
     
 </rdf:RDF>
