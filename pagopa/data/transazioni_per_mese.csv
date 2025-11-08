@@ -1,6 +1,6 @@
 anno_mese,categoria,numero_transazioni
 2023-01,ACI,6690712
-2023-01,Altri enti territoriali,363569
+2023-01,Altri enti territoriali,359981
 2023-01,Comuni,3828062
 2023-01,Consorzi universitari,17178
 2023-01,Enti comunali,13259
@@ -18,9 +18,9 @@ anno_mese,categoria,numero_transazioni
 2023-01,Scuola,1528635
 2023-01,Tutte,35100439
 2023-01,Università,391770
-2023-01,Utility,11560976
+2023-01,Utility,11564564
 2023-02,ACI,4948394
-2023-02,Altri enti territoriali,341276
+2023-02,Altri enti territoriali,333854
 2023-02,Comuni,3275814
 2023-02,Consorzi universitari,13925
 2023-02,Enti comunali,10009
@@ -38,9 +38,9 @@ anno_mese,categoria,numero_transazioni
 2023-02,Scuola,1805007
 2023-02,Tutte,30972637
 2023-02,Università,423860
-2023-02,Utility,10510687
+2023-02,Utility,10518109
 2023-03,ACI,3190280
-2023-03,Altri enti territoriali,414798
+2023-03,Altri enti territoriali,406945
 2023-03,Comuni,3718890
 2023-03,Consorzi universitari,17658
 2023-03,Enti comunali,19030
@@ -58,9 +58,9 @@ anno_mese,categoria,numero_transazioni
 2023-03,Scuola,2336337
 2023-03,Tutte,33289495
 2023-03,Università,488249
-2023-03,Utility,12501124
+2023-03,Utility,12508977
 2023-04,ACI,2402016
-2023-04,Altri enti territoriali,331223
+2023-04,Altri enti territoriali,326976
 2023-04,Comuni,3336475
 2023-04,Consorzi universitari,12757
 2023-04,Enti comunali,21155
@@ -78,9 +78,9 @@ anno_mese,categoria,numero_transazioni
 2023-04,Scuola,1867818
 2023-04,Tutte,27505105
 2023-04,Università,367289
-2023-04,Utility,10377398
+2023-04,Utility,10381645
 2023-05,ACI,5416896
-2023-05,Altri enti territoriali,479420
+2023-05,Altri enti territoriali,472510
 2023-05,Comuni,4284409
 2023-05,Consorzi universitari,16012
 2023-05,Enti comunali,17745
@@ -98,9 +98,9 @@ anno_mese,categoria,numero_transazioni
 2023-05,Scuola,1373532
 2023-05,Tutte,35767573
 2023-05,Università,599457
-2023-05,Utility,13054976
+2023-05,Utility,13061886
 2023-06,ACI,3335284
-2023-06,Altri enti territoriali,605980
+2023-06,Altri enti territoriali,600315
 2023-06,Comuni,4186285
 2023-06,Consorzi universitari,13392
 2023-06,Enti comunali,20214
@@ -118,9 +118,9 @@ anno_mese,categoria,numero_transazioni
 2023-06,Scuola,312274
 2023-06,Tutte,29841444
 2023-06,Università,458704
-2023-06,Utility,11313540
+2023-06,Utility,11319205
 2023-07,ACI,2736162
-2023-07,Altri enti territoriali,400520
+2023-07,Altri enti territoriali,395661
 2023-07,Comuni,4045966
 2023-07,Consorzi universitari,19947
 2023-07,Enti comunali,19724
@@ -138,9 +138,9 @@ anno_mese,categoria,numero_transazioni
 2023-07,Scuola,308536
 2023-07,Tutte,31054532
 2023-07,Università,339308
-2023-07,Utility,12907874
+2023-07,Utility,12912733
 2023-08,ACI,2412584
-2023-08,Altri enti territoriali,413772
+2023-08,Altri enti territoriali,406792
 2023-08,Comuni,3364510
 2023-08,Consorzi universitari,22380
 2023-08,Enti comunali,14082
@@ -158,9 +158,9 @@ anno_mese,categoria,numero_transazioni
 2023-08,Scuola,180038
 2023-08,Tutte,24751793
 2023-08,Università,380254
-2023-08,Utility,10976628
+2023-08,Utility,10983608
 2023-09,ACI,5438196
-2023-09,Altri enti territoriali,413703
+2023-09,Altri enti territoriali,406691
 2023-09,Comuni,4161820
 2023-09,Consorzi universitari,44696
 2023-09,Enti comunali,24844
@@ -178,9 +178,9 @@ anno_mese,categoria,numero_transazioni
 2023-09,Scuola,1062405
 2023-09,Tutte,35007135
 2023-09,Università,989350
-2023-09,Utility,12712609
+2023-09,Utility,12719621
 2023-10,ACI,3957385
-2023-10,Altri enti territoriali,471287
+2023-10,Altri enti territoriali,463942
 2023-10,Comuni,4387713
 2023-10,Consorzi universitari,63386
 2023-10,Enti comunali,19687
@@ -198,9 +198,9 @@ anno_mese,categoria,numero_transazioni
 2023-10,Scuola,2288111
 2023-10,Tutte,36900646
 2023-10,Università,736117
-2023-10,Utility,12030201
+2023-10,Utility,12037546
 2023-11,ACI,2838698
-2023-11,Altri enti territoriali,412048
+2023-11,Altri enti territoriali,406123
 2023-11,Comuni,4714298
 2023-11,Consorzi universitari,29451
 2023-11,Enti comunali,11870
@@ -218,9 +218,9 @@ anno_mese,categoria,numero_transazioni
 2023-11,Scuola,2237794
 2023-11,Tutte,34693570
 2023-11,Università,510560
-2023-11,Utility,12324203
+2023-11,Utility,12330128
 2023-12,ACI,3285236
-2023-12,Altri enti territoriali,393684
+2023-12,Altri enti territoriali,389352
 2023-12,Comuni,5272695
 2023-12,Consorzi universitari,20355
 2023-12,Enti comunali,17804
@@ -238,9 +238,9 @@ anno_mese,categoria,numero_transazioni
 2023-12,Scuola,1073259
 2023-12,Tutte,31472501
 2023-12,Università,479555
-2023-12,Utility,12001057
+2023-12,Utility,12005389
 2024-01,ACI,6936239
-2024-01,Altri enti territoriali,487100
+2024-01,Altri enti territoriali,481362
 2024-01,Comuni,4705612
 2024-01,Consorzi universitari,24356
 2024-01,Enti comunali,20926
@@ -258,9 +258,9 @@ anno_mese,categoria,numero_transazioni
 2024-01,Scuola,1713813
 2024-01,Tutte,38964041
 2024-01,Università,430391
-2024-01,Utility,12290753
+2024-01,Utility,12296491
 2024-02,ACI,5251155
-2024-02,Altri enti territoriali,388076
+2024-02,Altri enti territoriali,382309
 2024-02,Comuni,3940792
 2024-02,Consorzi universitari,24716
 2024-02,Enti comunali,11599
@@ -278,9 +278,9 @@ anno_mese,categoria,numero_transazioni
 2024-02,Scuola,2323774
 2024-02,Tutte,35984100
 2024-02,Università,473930
-2024-02,Utility,11151499
+2024-02,Utility,11157266
 2024-03,ACI,3245138
-2024-03,Altri enti territoriali,403794
+2024-03,Altri enti territoriali,397712
 2024-03,Comuni,3986958
 2024-03,Consorzi universitari,26584
 2024-03,Enti comunali,21777
@@ -298,9 +298,9 @@ anno_mese,categoria,numero_transazioni
 2024-03,Scuola,2243220
 2024-03,Tutte,33644769
 2024-03,Università,540195
-2024-03,Utility,11830703
+2024-03,Utility,11836785
 2024-04,ACI,2831236
-2024-04,Altri enti territoriali,472899
+2024-04,Altri enti territoriali,467262
 2024-04,Comuni,4196744
 2024-04,Consorzi universitari,21107
 2024-04,Enti comunali,18203
@@ -318,9 +318,9 @@ anno_mese,categoria,numero_transazioni
 2024-04,Scuola,2081671
 2024-04,Tutte,33520574
 2024-04,Università,586470
-2024-04,Utility,12528326
+2024-04,Utility,12533963
 2024-05,ACI,5740260
-2024-05,Altri enti territoriali,459841
+2024-05,Altri enti territoriali,453152
 2024-05,Comuni,4705217
 2024-05,Consorzi universitari,21203
 2024-05,Enti comunali,19003
@@ -338,9 +338,9 @@ anno_mese,categoria,numero_transazioni
 2024-05,Scuola,1393393
 2024-05,Tutte,39715173
 2024-05,Università,646638
-2024-05,Utility,13678589
+2024-05,Utility,13685278
 2024-06,ACI,3590268
-2024-06,Altri enti territoriali,683698
+2024-06,Altri enti territoriali,675838
 2024-06,Comuni,4552442
 2024-06,Consorzi universitari,17564
 2024-06,Enti comunali,18602
@@ -358,9 +358,9 @@ anno_mese,categoria,numero_transazioni
 2024-06,Scuola,302171
 2024-06,Tutte,32738409
 2024-06,Università,400206
-2024-06,Utility,12014893
+2024-06,Utility,12022753
 2024-07,ACI,3231955
-2024-07,Altri enti territoriali,543391
+2024-07,Altri enti territoriali,538753
 2024-07,Comuni,5001197
 2024-07,Consorzi universitari,22509
 2024-07,Enti comunali,18633
@@ -378,9 +378,9 @@ anno_mese,categoria,numero_transazioni
 2024-07,Scuola,323747
 2024-07,Tutte,35517935
 2024-07,Università,421717
-2024-07,Utility,12850437
+2024-07,Utility,12855075
 2024-08,ACI,2445878
-2024-08,Altri enti territoriali,474355
+2024-08,Altri enti territoriali,466902
 2024-08,Comuni,3753540
 2024-08,Consorzi universitari,20063
 2024-08,Enti comunali,20353
@@ -398,9 +398,9 @@ anno_mese,categoria,numero_transazioni
 2024-08,Scuola,179861
 2024-08,Tutte,26260874
 2024-08,Università,427059
-2024-08,Utility,11184302
+2024-08,Utility,11191755
 2024-09,ACI,5762706
-2024-09,Altri enti territoriali,495862
+2024-09,Altri enti territoriali,490127
 2024-09,Comuni,4927640
 2024-09,Consorzi universitari,49779
 2024-09,Enti comunali,20996
@@ -418,9 +418,9 @@ anno_mese,categoria,numero_transazioni
 2024-09,Scuola,971647
 2024-09,Tutte,38239954
 2024-09,Università,1094615
-2024-09,Utility,13374455
+2024-09,Utility,13380190
 2024-10,ACI,3817765
-2024-10,Altri enti territoriali,466179
+2024-10,Altri enti territoriali,460538
 2024-10,Comuni,5228052
 2024-10,Consorzi universitari,64711
 2024-10,Enti comunali,16240
@@ -438,9 +438,9 @@ anno_mese,categoria,numero_transazioni
 2024-10,Scuola,2589224
 2024-10,Tutte,37088753
 2024-10,Università,784761
-2024-10,Utility,11821499
+2024-10,Utility,11827140
 2024-11,ACI,2810908
-2024-11,Altri enti territoriali,578412
+2024-11,Altri enti territoriali,571941
 2024-11,Comuni,5731062
 2024-11,Consorzi universitari,32675
 2024-11,Enti comunali,14396
@@ -458,9 +458,9 @@ anno_mese,categoria,numero_transazioni
 2024-11,Scuola,2301584
 2024-11,Tutte,34981302
 2024-11,Università,550443
-2024-11,Utility,11803551
+2024-11,Utility,11810022
 2024-12,ACI,3378844
-2024-12,Altri enti territoriali,450636
+2024-12,Altri enti territoriali,446041
 2024-12,Comuni,6356853
 2024-12,Consorzi universitari,24435
 2024-12,Enti comunali,27032
@@ -478,9 +478,9 @@ anno_mese,categoria,numero_transazioni
 2024-12,Scuola,1218637
 2024-12,Tutte,35464594
 2024-12,Università,525246
-2024-12,Utility,12536359
+2024-12,Utility,12540954
 2025-01,ACI,6907683
-2025-01,Altri enti territoriali,430810
+2025-01,Altri enti territoriali,425412
 2025-01,Comuni,4995609
 2025-01,Consorzi universitari,23720
 2025-01,Enti comunali,14444
@@ -498,9 +498,9 @@ anno_mese,categoria,numero_transazioni
 2025-01,Scuola,2051851
 2025-01,Tutte,40273722
 2025-01,Università,438609
-2025-01,Utility,12148196
+2025-01,Utility,12153594
 2025-02,ACI,5150368
-2025-02,Altri enti territoriali,439837
+2025-02,Altri enti territoriali,433443
 2025-02,Comuni,4235280
 2025-02,Consorzi universitari,21928
 2025-02,Enti comunali,11441
@@ -518,9 +518,9 @@ anno_mese,categoria,numero_transazioni
 2025-02,Scuola,2511355
 2025-02,Tutte,36624029
 2025-02,Università,512178
-2025-02,Utility,10973963
+2025-02,Utility,10980357
 2025-03,ACI,3445147
-2025-03,Altri enti territoriali,465510
+2025-03,Altri enti territoriali,458281
 2025-03,Comuni,4934815
 2025-03,Consorzi universitari,25435
 2025-03,Enti comunali,13176
@@ -538,9 +538,9 @@ anno_mese,categoria,numero_transazioni
 2025-03,Scuola,2568638
 2025-03,Tutte,37975889
 2025-03,Università,670058
-2025-03,Utility,12917853
+2025-03,Utility,12925082
 2025-04,ACI,3068368
-2025-04,Altri enti territoriali,435733
+2025-04,Altri enti territoriali,431516
 2025-04,Comuni,4753869
 2025-04,Consorzi universitari,20122
 2025-04,Enti comunali,21338
@@ -558,9 +558,9 @@ anno_mese,categoria,numero_transazioni
 2025-04,Scuola,1836205
 2025-04,Tutte,35093271
 2025-04,Università,514936
-2025-04,Utility,12311895
+2025-04,Utility,12316112
 2025-05,ACI,5636201
-2025-05,Altri enti territoriali,710198
+2025-05,Altri enti territoriali,702894
 2025-05,Comuni,5158271
 2025-05,Consorzi universitari,21210
 2025-05,Enti comunali,15131
@@ -578,9 +578,9 @@ anno_mese,categoria,numero_transazioni
 2025-05,Scuola,1363413
 2025-05,Tutte,41639071
 2025-05,Università,653124
-2025-05,Utility,14517016
+2025-05,Utility,14524320
 2025-06,ACI,3874670
-2025-06,Altri enti territoriali,705835
+2025-06,Altri enti territoriali,700230
 2025-06,Comuni,5170078
 2025-06,Consorzi universitari,20499
 2025-06,Enti comunali,11214
@@ -598,9 +598,9 @@ anno_mese,categoria,numero_transazioni
 2025-06,Scuola,311882
 2025-06,Tutte,35878344
 2025-06,Università,446520
-2025-06,Utility,12611195
+2025-06,Utility,12616800
 2025-07,ACI,3254937
-2025-07,Altri enti territoriali,676768
+2025-07,Altri enti territoriali,671553
 2025-07,Comuni,5560364
 2025-07,Consorzi universitari,29817
 2025-07,Enti comunali,9202
@@ -618,9 +618,9 @@ anno_mese,categoria,numero_transazioni
 2025-07,Scuola,332302
 2025-07,Tutte,36228880
 2025-07,Università,477176
-2025-07,Utility,11580628
+2025-07,Utility,11585843
 2025-08,ACI,2433065
-2025-08,Altri enti territoriali,769534
+2025-08,Altri enti territoriali,763402
 2025-08,Comuni,4155548
 2025-08,Consorzi universitari,23079
 2025-08,Enti comunali,10372
@@ -638,9 +638,9 @@ anno_mese,categoria,numero_transazioni
 2025-08,Scuola,196059
 2025-08,Tutte,28500814
 2025-08,Università,443230
-2025-08,Utility,11749216
+2025-08,Utility,11755348
 2025-09,ACI,5966520
-2025-09,Altri enti territoriali,560244
+2025-09,Altri enti territoriali,554271
 2025-09,Comuni,5798336
 2025-09,Consorzi universitari,55060
 2025-09,Enti comunali,9061
@@ -658,9 +658,9 @@ anno_mese,categoria,numero_transazioni
 2025-09,Scuola,1236766
 2025-09,Tutte,41214986
 2025-09,Università,1112243
-2025-09,Utility,13870070
+2025-09,Utility,13876043
 2025-10,ACI,3818110
-2025-10,Altri enti territoriali,491822
+2025-10,Altri enti territoriali,485637
 2025-10,Comuni,5857961
 2025-10,Consorzi universitari,61415
 2025-10,Enti comunali,11196
@@ -678,23 +678,23 @@ anno_mese,categoria,numero_transazioni
 2025-10,Scuola,2711474
 2025-10,Tutte,39494464
 2025-10,Università,806965
-2025-10,Utility,12700149
-2025-11,ACI,559839
-2025-11,Altri enti territoriali,138611
-2025-11,Comuni,1280060
-2025-11,Consorzi universitari,10687
-2025-11,Enti comunali,3344
-2025-11,Enti provinciali,65
-2025-11,"Ordini, collegi e consigli professionali",23579
-2025-11,Province,36047
-2025-11,Pubbliche amministrazioni centrali,1857736
-2025-11,Regioni,95819
-2025-11,Ricerca,99
-2025-11,Salute centrale,80930
-2025-11,Salute locale,192171
-2025-11,Salute regionale,367
-2025-11,Salute servizi,9872
-2025-11,Scuola,471651
-2025-11,Tutte,7846765
-2025-11,Università,152093
-2025-11,Utility,2932515
+2025-10,Utility,12706334
+2025-11,ACI,670951
+2025-11,Altri enti territoriali,163754
+2025-11,Comuni,1510236
+2025-11,Consorzi universitari,11906
+2025-11,Enti comunali,3762
+2025-11,Enti provinciali,69
+2025-11,"Ordini, collegi e consigli professionali",28248
+2025-11,Province,43965
+2025-11,Pubbliche amministrazioni centrali,2224422
+2025-11,Regioni,112579
+2025-11,Ricerca,125
+2025-11,Salute centrale,93999
+2025-11,Salute locale,224697
+2025-11,Salute regionale,449
+2025-11,Salute servizi,11763
+2025-11,Scuola,554558
+2025-11,Tutte,9186423
+2025-11,Università,168847
+2025-11,Utility,3360513
