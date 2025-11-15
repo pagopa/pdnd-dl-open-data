@@ -1,25 +1,25 @@
 regione,categoria,numero_enti,numero_servizi
-Calabria,Comuni,388,11372
-Lombardia,Comuni,1426,39388
+Calabria,Comuni,388,11396
+Lombardia,Comuni,1426,39449
 Trentino-Alto Adige/Südtirol,Istruzione,108,112
 Lombardia,Istruzione,1120,20056
 Trentino-Alto Adige/Südtirol,Comuni,280,5728
 Toscana,Istruzione,473,8453
 Umbria,Istruzione,139,2492
-Puglia,Comuni,252,8479
+Puglia,Comuni,252,8498
 Campania,Istruzione,853,15301
 Lazio,Istruzione,681,12164
 Valle d'Aosta/Vallée d'Aoste,Istruzione,1,5
 Liguria,Istruzione,171,3045
-Sicilia,Comuni,377,13879
-Toscana,Comuni,266,8818
+Sicilia,Comuni,378,13897
+Toscana,Comuni,267,8858
 Veneto,Istruzione,569,10165
-Emilia-Romagna,Comuni,330,10747
+Emilia-Romagna,Comuni,330,10746
 Liguria,Comuni,230,4765
-Sardegna,Comuni,366,12829
+Sardegna,Comuni,366,12840
 Marche,Istruzione,216,3830
 Sicilia,Istruzione,752,13186
-Basilicata,Comuni,130,6452
+Basilicata,Comuni,131,6511
 Emilia-Romagna,Istruzione,539,9635
 Valle d'Aosta/Vallée d'Aoste,Comuni,72,1589
 Calabria,Istruzione,285,5070
@@ -27,8 +27,8 @@ Umbria,Comuni,90,2386
 Friuli-Venezia Giulia,Istruzione,154,2737
 Abruzzo,Istruzione,192,3398
 Marche,Comuni,224,7686
-Piemonte,Comuni,1134,23094
-Campania,Comuni,527,16531
+Piemonte,Comuni,1134,23111
+Campania,Comuni,527,16573
 Piemonte,Istruzione,535,9586
 Sardegna,Istruzione,234,4181
 Abruzzo,Comuni,297,9243
@@ -36,6 +36,6 @@ Molise,Istruzione,47,843
 Veneto,Comuni,557,23858
 Basilicata,Istruzione,86,1543
 Puglia,Istruzione,552,9883
-Friuli-Venezia Giulia,Comuni,213,5466
-Lazio,Comuni,364,12621
+Friuli-Venezia Giulia,Comuni,213,5471
+Lazio,Comuni,364,12650
 Molise,Comuni,132,5046
