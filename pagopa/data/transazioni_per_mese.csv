@@ -160,7 +160,7 @@ anno_mese,categoria,numero_transazioni
 2024-08,Università,427059
 2024-08,Utility,11191755
 2024-09,ACI,5762706
-2024-09,Altri enti territoriali,490127
+2024-09,Altri enti territoriali,490128
 2024-09,Comuni,4927640
 2024-09,Consorzi universitari,49779
 2024-09,Enti comunali,20996
@@ -178,7 +178,7 @@ anno_mese,categoria,numero_transazioni
 2024-09,Scuola,971647
 2024-09,Tutte,38239954
 2024-09,Università,1094615
-2024-09,Utility,13380190
+2024-09,Utility,13380189
 2024-10,ACI,3817765
 2024-10,Altri enti territoriali,460538
 2024-10,Comuni,5228052
@@ -259,26 +259,26 @@ anno_mese,categoria,numero_transazioni
 2025-01,Tutte,40273723
 2025-01,Università,438609
 2025-01,Utility,12153594
-2025-02,ACI,5150369
-2025-02,Altri enti territoriali,433443
-2025-02,Comuni,4235282
-2025-02,Consorzi universitari,21928
-2025-02,Enti comunali,11441
-2025-02,Enti provinciali,443
+2025-02,ACI,5166780
+2025-02,Altri enti territoriali,435679
+2025-02,Comuni,4256314
+2025-02,Consorzi universitari,22042
+2025-02,Enti comunali,11513
+2025-02,Enti provinciali,447
 2025-02,Enti regionali,44
-2025-02,"Ordini, collegi e consigli professionali",499534
-2025-02,Province,141283
-2025-02,Pubbliche amministrazioni centrali,9429312
-2025-02,Regioni,956224
-2025-02,Ricerca,1465
-2025-02,Salute centrale,576628
-2025-02,Salute locale,1130792
-2025-02,Salute regionale,4532
-2025-02,Salute servizi,27420
-2025-02,Scuola,2511355
-2025-02,Tutte,36624034
-2025-02,Università,512178
-2025-02,Utility,10980358
+2025-02,"Ordini, collegi e consigli professionali",501866
+2025-02,Province,142518
+2025-02,Pubbliche amministrazioni centrali,9482728
+2025-02,Regioni,961082
+2025-02,Ricerca,1473
+2025-02,Salute centrale,577860
+2025-02,Salute locale,1134011
+2025-02,Salute regionale,4538
+2025-02,Salute servizi,27547
+2025-02,Scuola,2524727
+2025-02,Tutte,36795839
+2025-02,Università,514935
+2025-02,Utility,11029732
 2025-03,ACI,3445147
 2025-03,Altri enti territoriali,458281
 2025-03,Comuni,4934815
@@ -320,7 +320,7 @@ anno_mese,categoria,numero_transazioni
 2025-04,Università,514936
 2025-04,Utility,12316112
 2025-05,ACI,5636202
-2025-05,Altri enti territoriali,702894
+2025-05,Altri enti territoriali,702893
 2025-05,Comuni,5158272
 2025-05,Consorzi universitari,21210
 2025-05,Enti comunali,15131
@@ -338,9 +338,9 @@ anno_mese,categoria,numero_transazioni
 2025-05,Scuola,1363413
 2025-05,Tutte,41639077
 2025-05,Università,653127
-2025-05,Utility,14524321
+2025-05,Utility,14524322
 2025-06,ACI,3874670
-2025-06,Altri enti territoriali,700230
+2025-06,Altri enti territoriali,665880
 2025-06,Comuni,5170078
 2025-06,Consorzi universitari,20499
 2025-06,Enti comunali,11214
@@ -358,9 +358,9 @@ anno_mese,categoria,numero_transazioni
 2025-06,Scuola,311882
 2025-06,Tutte,35878346
 2025-06,Università,446521
-2025-06,Utility,12616800
+2025-06,Utility,12651150
 2025-07,ACI,3254937
-2025-07,Altri enti territoriali,671553
+2025-07,Altri enti territoriali,612181
 2025-07,Comuni,5560364
 2025-07,Consorzi universitari,29817
 2025-07,Enti comunali,9202
@@ -378,9 +378,9 @@ anno_mese,categoria,numero_transazioni
 2025-07,Scuola,332302
 2025-07,Tutte,36228890
 2025-07,Università,477182
-2025-07,Utility,11585843
+2025-07,Utility,11645215
 2025-08,ACI,2433065
-2025-08,Altri enti territoriali,763402
+2025-08,Altri enti territoriali,758373
 2025-08,Comuni,4155548
 2025-08,Consorzi universitari,23079
 2025-08,Enti comunali,10372
@@ -398,9 +398,9 @@ anno_mese,categoria,numero_transazioni
 2025-08,Scuola,196067
 2025-08,Tutte,28500832
 2025-08,Università,443238
-2025-08,Utility,11755350
+2025-08,Utility,11760379
 2025-09,ACI,5966523
-2025-09,Altri enti territoriali,554303
+2025-09,Altri enti territoriali,549969
 2025-09,Comuni,5803997
 2025-09,Consorzi universitari,55060
 2025-09,Enti comunali,9062
@@ -418,9 +418,9 @@ anno_mese,categoria,numero_transazioni
 2025-09,Scuola,1236774
 2025-09,Tutte,41263691
 2025-09,Università,1112244
-2025-09,Utility,13876127
+2025-09,Utility,13880461
 2025-10,ACI,3818148
-2025-10,Altri enti territoriali,485893
+2025-10,Altri enti territoriali,483973
 2025-10,Comuni,5926975
 2025-10,Consorzi universitari,61417
 2025-10,Enti comunali,11197
@@ -438,9 +438,9 @@ anno_mese,categoria,numero_transazioni
 2025-10,Scuola,2711577
 2025-10,Tutte,40101986
 2025-10,Università,808067
-2025-10,Utility,12709150
+2025-10,Utility,12711070
 2025-11,ACI,2825757
-2025-11,Altri enti territoriali,637115
+2025-11,Altri enti territoriali,636169
 2025-11,Comuni,6255832
 2025-11,Consorzi universitari,40971
 2025-11,Enti comunali,10804
@@ -458,9 +458,9 @@ anno_mese,categoria,numero_transazioni
 2025-11,Scuola,2298857
 2025-11,Tutte,36625377
 2025-11,Università,544182
-2025-11,Utility,12044354
+2025-11,Utility,12045300
 2025-12,ACI,3731972
-2025-12,Altri enti territoriali,702089
+2025-12,Altri enti territoriali,701459
 2025-12,Comuni,7149356
 2025-12,Consorzi universitari,27309
 2025-12,Enti comunali,8669
@@ -478,24 +478,24 @@ anno_mese,categoria,numero_transazioni
 2025-12,Scuola,1167722
 2025-12,Tutte,38142137
 2025-12,Università,558395
-2025-12,Utility,13157209
-2026-01,ACI,2706188
-2026-01,Altri enti territoriali,507044
-2026-01,Comuni,2535078
-2026-01,Consorzi universitari,12492
-2026-01,Enti comunali,3212
-2026-01,Enti provinciali,223
-2026-01,Enti regionali,268
-2026-01,"Ordini, collegi e consigli professionali",169722
-2026-01,Province,71158
-2026-01,Pubbliche amministrazioni centrali,4692974
-2026-01,Regioni,492760
-2026-01,Ricerca,282
-2026-01,Salute centrale,172008
-2026-01,Salute locale,444608
-2026-01,Salute regionale,4244
-2026-01,Salute servizi,28464
-2026-01,Scuola,664450
-2026-01,Tutte,18810373
-2026-01,Università,211602
-2026-01,Utility,6089973
+2025-12,Utility,13157839
+2026-01,ACI,2951511
+2026-01,Altri enti territoriali,534839
+2026-01,Comuni,2744520
+2026-01,Consorzi universitari,13470
+2026-01,Enti comunali,3503
+2026-01,Enti provinciali,244
+2026-01,Enti regionali,290
+2026-01,"Ordini, collegi e consigli professionali",185200
+2026-01,Province,77612
+2026-01,Pubbliche amministrazioni centrali,5099204
+2026-01,Regioni,539275
+2026-01,Ricerca,315
+2026-01,Salute centrale,186959
+2026-01,Salute locale,483830
+2026-01,Salute regionale,4335
+2026-01,Salute servizi,30378
+2026-01,Scuola,750365
+2026-01,Tutte,20375535
+2026-01,Università,225879
+2026-01,Utility,6539761
