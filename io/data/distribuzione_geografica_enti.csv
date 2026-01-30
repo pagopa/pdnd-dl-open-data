@@ -1,6 +1,6 @@
 regione,categoria,numero_enti,numero_servizi
-Calabria,Comuni,389,11924
-Lombardia,Comuni,1437,40436
+Calabria,Comuni,389,11941
+Lombardia,Comuni,1437,40454
 Trentino-Alto Adige/Südtirol,Istruzione,111,115
 Lombardia,Istruzione,1121,20074
 Trentino-Alto Adige/Südtirol,Comuni,280,5727
@@ -11,11 +11,11 @@ Campania,Istruzione,864,15499
 Lazio,Istruzione,689,12308
 Valle d'Aosta/Vallée d'Aoste,Istruzione,1,5
 Liguria,Istruzione,174,3099
-Sicilia,Comuni,380,14311
-Toscana,Comuni,267,9097
+Sicilia,Comuni,380,14460
+Toscana,Comuni,267,9129
 Veneto,Istruzione,568,10147
 Emilia-Romagna,Comuni,330,10898
-Liguria,Comuni,230,4820
+Liguria,Comuni,230,4824
 Sardegna,Comuni,366,13060
 Marche,Istruzione,214,3794
 Sicilia,Istruzione,736,12873
@@ -27,15 +27,15 @@ Umbria,Comuni,90,2399
 Friuli-Venezia Giulia,Istruzione,157,2791
 Abruzzo,Istruzione,191,3406
 Marche,Comuni,224,8014
-Piemonte,Comuni,1144,23872
-Campania,Comuni,533,17256
+Piemonte,Comuni,1144,23922
+Campania,Comuni,533,17278
 Piemonte,Istruzione,534,9568
 Sardegna,Istruzione,236,4217
-Abruzzo,Comuni,299,9574
+Abruzzo,Comuni,299,9575
 Molise,Istruzione,46,825
 Veneto,Comuni,557,24070
 Basilicata,Istruzione,86,1545
-Puglia,Istruzione,573,10254
 Friuli-Venezia Giulia,Comuni,213,6304
-Lazio,Comuni,365,13306
+Puglia,Istruzione,573,10254
+Lazio,Comuni,365,13335
 Molise,Comuni,134,5201
