@@ -1,20 +1,20 @@
 regione,categoria,numero_enti,numero_servizi
-Calabria,Comuni,391,12571
-Lombardia,Comuni,1437,40661
+Calabria,Comuni,391,12594
+Lombardia,Comuni,1437,40682
 Trentino-Alto Adige/Südtirol,Istruzione,111,115
 Lombardia,Istruzione,1121,20074
 Trentino-Alto Adige/Südtirol,Comuni,280,5717
 Toscana,Istruzione,473,8453
 Umbria,Istruzione,139,2492
-Puglia,Comuni,253,8995
+Puglia,Comuni,253,9019
 Campania,Istruzione,864,15500
 Lazio,Istruzione,689,12308
 Valle d'Aosta/Vallée d'Aoste,Istruzione,1,5
 Liguria,Istruzione,174,3099
-Sicilia,Comuni,381,15101
+Sicilia,Comuni,381,15178
 Toscana,Comuni,269,9272
 Veneto,Istruzione,569,10163
-Emilia-Romagna,Comuni,330,10905
+Emilia-Romagna,Comuni,330,10916
 Liguria,Comuni,230,4837
 Sardegna,Comuni,367,13223
 Marche,Istruzione,214,3794
@@ -26,16 +26,16 @@ Calabria,Istruzione,287,5107
 Umbria,Comuni,90,2412
 Friuli-Venezia Giulia,Istruzione,158,2792
 Abruzzo,Istruzione,191,3406
-Marche,Comuni,224,8042
+Marche,Comuni,224,8054
 Piemonte,Comuni,1146,24299
 Campania,Comuni,534,17447
 Piemonte,Istruzione,534,9568
 Sardegna,Istruzione,236,4217
-Abruzzo,Comuni,299,9942
+Abruzzo,Comuni,299,9943
 Molise,Istruzione,46,825
-Veneto,Comuni,558,24189
+Veneto,Comuni,558,24246
 Basilicata,Istruzione,86,1545
-Puglia,Istruzione,573,10256
 Friuli-Venezia Giulia,Comuni,213,6350
-Lazio,Comuni,365,13469
+Puglia,Istruzione,573,10256
+Lazio,Comuni,365,13493
 Molise,Comuni,134,5216
