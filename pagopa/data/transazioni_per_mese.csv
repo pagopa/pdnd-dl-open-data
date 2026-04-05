@@ -236,10 +236,10 @@ anno_mese,categoria,numero_transazioni
 2024-12,Salute regionale,7922
 2024-12,Salute servizi,33576
 2024-12,Scuola,1218637
-2024-12,Tutte,35464594
+2024-12,Tutte,35464596
 2024-12,Università,525246
-2024-12,Utility,12555322
-2025-01,ACI,6907684
+2024-12,Utility,12555324
+2025-01,ACI,6907685
 2025-01,Altri enti territoriali,422055
 2025-01,Comuni,4995483
 2025-01,Consorzi universitari,23720
@@ -256,7 +256,7 @@ anno_mese,categoria,numero_transazioni
 2025-01,Salute regionale,10398
 2025-01,Salute servizi,37183
 2025-01,Scuola,2051851
-2025-01,Tutte,40273723
+2025-01,Tutte,40273724
 2025-01,Università,438609
 2025-01,Utility,12156951
 2025-02,ACI,5179029
@@ -319,26 +319,26 @@ anno_mese,categoria,numero_transazioni
 2025-04,Tutte,35093271
 2025-04,Università,514936
 2025-04,Utility,12326693
-2025-05,ACI,5636202
+2025-05,ACI,5636203
 2025-05,Altri enti territoriali,700111
-2025-05,Comuni,5157883
+2025-05,Comuni,5157884
 2025-05,Consorzi universitari,21210
 2025-05,Enti comunali,15520
 2025-05,Enti provinciali,530
 2025-05,Enti regionali,45
 2025-05,"Ordini, collegi e consigli professionali",347193
 2025-05,Province,163622
-2025-05,Pubbliche amministrazioni centrali,10088445
-2025-05,Regioni,1079895
+2025-05,Pubbliche amministrazioni centrali,10088446
+2025-05,Regioni,1079896
 2025-05,Ricerca,2723
-2025-05,Salute centrale,620108
+2025-05,Salute centrale,620109
 2025-05,Salute locale,1231044
 2025-05,Salute regionale,2215
 2025-05,Salute servizi,28640
 2025-05,Scuola,1363413
-2025-05,Tutte,41639077
+2025-05,Tutte,41639083
 2025-05,Università,653127
-2025-05,Utility,14527104
+2025-05,Utility,14527105
 2025-06,ACI,3874670
 2025-06,Altri enti territoriali,664893
 2025-06,Comuni,5169139
@@ -348,7 +348,7 @@ anno_mese,categoria,numero_transazioni
 2025-06,Enti regionali,24
 2025-06,"Ordini, collegi e consigli professionali",369670
 2025-06,Province,168448
-2025-06,Pubbliche amministrazioni centrali,9612392
+2025-06,Pubbliche amministrazioni centrali,9612393
 2025-06,Regioni,775080
 2025-06,Ricerca,3535
 2025-06,Salute centrale,594800
@@ -356,9 +356,9 @@ anno_mese,categoria,numero_transazioni
 2025-06,Salute regionale,3800
 2025-06,Salute servizi,30292
 2025-06,Scuola,311882
-2025-06,Tutte,35878346
+2025-06,Tutte,35878348
 2025-06,Università,446521
-2025-06,Utility,12652137
+2025-06,Utility,12652138
 2025-07,ACI,3254937
 2025-07,Altri enti territoriali,611756
 2025-07,Comuni,5560207
@@ -368,7 +368,7 @@ anno_mese,categoria,numero_transazioni
 2025-07,Enti regionali,23
 2025-07,"Ordini, collegi e consigli professionali",166847
 2025-07,Province,187596
-2025-07,Pubbliche amministrazioni centrali,11459968
+2025-07,Pubbliche amministrazioni centrali,11459970
 2025-07,Regioni,622668
 2025-07,Ricerca,18060
 2025-07,Salute centrale,604210
@@ -376,9 +376,9 @@ anno_mese,categoria,numero_transazioni
 2025-07,Salute regionale,7150
 2025-07,Salute servizi,32641
 2025-07,Scuola,332302
-2025-07,Tutte,36228890
+2025-07,Tutte,36228893
 2025-07,Università,477182
-2025-07,Utility,11645640
+2025-07,Utility,11645641
 2025-08,ACI,2433065
 2025-08,Altri enti territoriali,758147
 2025-08,Comuni,4155455
@@ -401,14 +401,14 @@ anno_mese,categoria,numero_transazioni
 2025-08,Utility,11760605
 2025-09,ACI,5966523
 2025-09,Altri enti territoriali,549731
-2025-09,Comuni,5803886
+2025-09,Comuni,5803896
 2025-09,Consorzi universitari,55060
 2025-09,Enti comunali,9173
 2025-09,Enti provinciali,185
 2025-09,Enti regionali,27
 2025-09,"Ordini, collegi e consigli professionali",129975
 2025-09,Province,182567
-2025-09,Pubbliche amministrazioni centrali,9189958
+2025-09,Pubbliche amministrazioni centrali,9189959
 2025-09,Regioni,1210078
 2025-09,Ricerca,2271
 2025-09,Salute centrale,629618
@@ -416,7 +416,7 @@ anno_mese,categoria,numero_transazioni
 2025-09,Salute regionale,6683
 2025-09,Salute servizi,28297
 2025-09,Scuola,1236774
-2025-09,Tutte,41263691
+2025-09,Tutte,41263702
 2025-09,Università,1112244
 2025-09,Utility,13880699
 2025-10,ACI,3818148
@@ -432,13 +432,13 @@ anno_mese,categoria,numero_transazioni
 2025-10,Regioni,674226
 2025-10,Ricerca,7911
 2025-10,Salute centrale,658110
-2025-10,Salute locale,1298704
+2025-10,Salute locale,1298705
 2025-10,Salute regionale,1564
 2025-10,Salute servizi,35953
 2025-10,Scuola,2711577
-2025-10,Tutte,40101986
+2025-10,Tutte,40101988
 2025-10,Università,808067
-2025-10,Utility,12719373
+2025-10,Utility,12719374
 2025-11,ACI,2825757
 2025-11,Altri enti territoriali,543022
 2025-11,Comuni,6255723
@@ -455,90 +455,90 @@ anno_mese,categoria,numero_transazioni
 2025-11,Salute locale,1236043
 2025-11,Salute regionale,1569
 2025-11,Salute servizi,40155
-2025-11,Scuola,2298857
-2025-11,Tutte,36625377
-2025-11,Università,544182
+2025-11,Scuola,2298858
+2025-11,Tutte,36625404
+2025-11,Università,544208
 2025-11,Utility,12138447
-2025-12,ACI,3731972
-2025-12,Altri enti territoriali,658139
-2025-12,Comuni,7148893
+2025-12,ACI,3731974
+2025-12,Altri enti territoriali,658159
+2025-12,Comuni,7153341
 2025-12,Consorzi universitari,27309
 2025-12,Enti comunali,9132
 2025-12,Enti provinciali,295
 2025-12,Enti regionali,76
-2025-12,"Ordini, collegi e consigli professionali",134726
+2025-12,"Ordini, collegi e consigli professionali",134734
 2025-12,Province,156840
-2025-12,Pubbliche amministrazioni centrali,9118662
-2025-12,Regioni,514603
+2025-12,Pubbliche amministrazioni centrali,9118667
+2025-12,Regioni,514644
 2025-12,Ricerca,1746
-2025-12,Salute centrale,528156
-2025-12,Salute locale,1138077
+2025-12,Salute centrale,539052
+2025-12,Salute locale,1155023
 2025-12,Salute regionale,1812
-2025-12,Salute servizi,43869
+2025-12,Salute servizi,43883
 2025-12,Scuola,1167723
-2025-12,Tutte,38142140
+2025-12,Tutte,38174615
 2025-12,Università,558395
-2025-12,Utility,13201160
-2026-01,ACI,6826156
-2026-01,Altri enti territoriali,1061263
-2026-01,Comuni,5380441
-2026-01,Consorzi universitari,28346
-2026-01,Enti comunali,7503
+2025-12,Utility,13201255
+2026-01,ACI,6826745
+2026-01,Altri enti territoriali,1061823
+2026-01,Comuni,5447722
+2026-01,Consorzi universitari,28350
+2026-01,Enti comunali,7504
 2026-01,Enti provinciali,410
 2026-01,Enti regionali,823
-2026-01,"Ordini, collegi e consigli professionali",444844
-2026-01,Province,151595
-2026-01,Pubbliche amministrazioni centrali,9845513
-2026-01,Regioni,1323203
+2026-01,"Ordini, collegi e consigli professionali",445132
+2026-01,Province,151909
+2026-01,Pubbliche amministrazioni centrali,9846333
+2026-01,Regioni,1323640
 2026-01,Ricerca,1834
-2026-01,Salute centrale,396371
-2026-01,Salute locale,1015498
+2026-01,Salute centrale,594901
+2026-01,Salute locale,1290496
 2026-01,Salute regionale,6770
-2026-01,Salute servizi,50877
-2026-01,Scuola,2034781
-2026-01,Tutte,41652479
-2026-01,Università,483235
-2026-01,Utility,12591700
-2026-02,ACI,5296027
-2026-02,Altri enti territoriali,496638
-2026-02,Comuni,4634810
+2026-01,Salute servizi,50883
+2026-01,Scuola,2035027
+2026-01,Tutte,42199553
+2026-01,Università,484681
+2026-01,Utility,12593253
+2026-02,ACI,5296093
+2026-02,Altri enti territoriali,496828
+2026-02,Comuni,4712616
 2026-02,Consorzi universitari,26154
 2026-02,Enti comunali,8478
-2026-02,Enti provinciali,568
+2026-02,Enti provinciali,569
 2026-02,Enti regionali,50
-2026-02,"Ordini, collegi e consigli professionali",518668
-2026-02,Province,170058
-2026-02,Pubbliche amministrazioni centrali,9871812
-2026-02,Regioni,1045660
+2026-02,"Ordini, collegi e consigli professionali",519045
+2026-02,Province,170517
+2026-02,Pubbliche amministrazioni centrali,9872033
+2026-02,Regioni,1046069
 2026-02,Ricerca,6640
-2026-02,Salute centrale,410695
-2026-02,Salute locale,1042538
+2026-02,Salute centrale,623210
+2026-02,Salute locale,1343453
 2026-02,Salute regionale,1496
-2026-02,Salute servizi,30880
-2026-02,Scuola,2431375
-2026-02,Tutte,38690184
-2026-02,Università,533691
-2026-02,Utility,12162492
-2026-03,ACI,3676598
-2026-03,Altri enti territoriali,517504
-2026-03,Comuni,5249462
-2026-03,Consorzi universitari,35558
+2026-02,Salute servizi,30885
+2026-02,Scuola,2431508
+2026-02,Tutte,39287131
+2026-02,Università,535090
+2026-02,Utility,12164939
+2026-03,ACI,3678654
+2026-03,Altri enti territoriali,517681
+2026-03,Comuni,5315284
+2026-03,Consorzi universitari,35559
 2026-03,Enti comunali,10385
-2026-03,Enti provinciali,629
+2026-03,Enti provinciali,630
 2026-03,Enti regionali,38
-2026-03,"Ordini, collegi e consigli professionali",674605
-2026-03,Province,184975
-2026-03,Pubbliche amministrazioni centrali,10472442
-2026-03,Regioni,685539
+2026-03,"Ordini, collegi e consigli professionali",674793
+2026-03,Province,185297
+2026-03,Pubbliche amministrazioni centrali,10474583
+2026-03,Regioni,686103
 2026-03,Ricerca,14053
-2026-03,Salute centrale,481702
-2026-03,Salute locale,1149075
+2026-03,Salute centrale,614232
+2026-03,Salute locale,1347482
 2026-03,Salute regionale,2408
-2026-03,Salute servizi,35387
-2026-03,Scuola,2543308
-2026-03,Tutte,41532348
-2026-03,Università,719879
-2026-03,Utility,15076907
+2026-03,Salute servizi,35393
+2026-03,Scuola,2543501
+2026-03,Tutte,41942752
+2026-03,Università,720745
+2026-03,Utility,15084034
 2026-04,ACI,435040
 2026-04,Altri enti territoriali,83758
 2026-04,Comuni,662113
