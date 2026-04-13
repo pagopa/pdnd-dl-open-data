@@ -278,47 +278,47 @@ anno,categoria,fascia_importo,numero_transazioni
 2025,Utility,(50-100],45255487
 2025,Utility,(500-1000],3571597
 2025,Utility,>1000,2739424
-2026,ACI,(0-25],4527077
-2026,ACI,(100-200],4362480
-2026,ACI,(200-500],3968804
-2026,ACI,(25-50],1992422
-2026,ACI,(50-100],1522236
-2026,ACI,(500-1000],394367
-2026,ACI,>1000,40761
-2026,Altri enti territoriali,(0-25],800112
-2026,Altri enti territoriali,(100-200],358292
-2026,Altri enti territoriali,(200-500],229822
-2026,Altri enti territoriali,(25-50],368556
-2026,Altri enti territoriali,(50-100],406442
-2026,Altri enti territoriali,(500-1000],44550
-2026,Altri enti territoriali,>1000,48295
-2026,Comuni,(0-25],2880433
-2026,Comuni,(100-200],3220775
-2026,Comuni,(200-500],1626496
-2026,Comuni,(25-50],4098405
-2026,Comuni,(50-100],4676883
-2026,Comuni,(500-1000],389768
-2026,Comuni,>1000,261110
-2026,Consorzi universitari,(0-25],18449
-2026,Consorzi universitari,(100-200],57671
-2026,Consorzi universitari,(200-500],11065
-2026,Consorzi universitari,(25-50],6531
-2026,Consorzi universitari,(50-100],5173
-2026,Consorzi universitari,(500-1000],1172
-2026,Consorzi universitari,>1000,1501
-2026,Enti comunali,(0-25],1778
-2026,Enti comunali,(100-200],7715
-2026,Enti comunali,(200-500],4557
-2026,Enti comunali,(25-50],7045
-2026,Enti comunali,(50-100],8041
-2026,Enti comunali,(500-1000],581
+2026,ACI,(0-25],4529122
+2026,ACI,(100-200],4365505
+2026,ACI,(200-500],3971029
+2026,ACI,(25-50],1993423
+2026,ACI,(50-100],1523068
+2026,ACI,(500-1000],394450
+2026,ACI,>1000,40767
+2026,Altri enti territoriali,(0-25],800967
+2026,Altri enti territoriali,(100-200],359054
+2026,Altri enti territoriali,(200-500],230300
+2026,Altri enti territoriali,(25-50],369707
+2026,Altri enti territoriali,(50-100],407412
+2026,Altri enti territoriali,(500-1000],44649
+2026,Altri enti territoriali,>1000,48349
+2026,Comuni,(0-25],2889151
+2026,Comuni,(100-200],3231161
+2026,Comuni,(200-500],1631767
+2026,Comuni,(25-50],4112838
+2026,Comuni,(50-100],4690598
+2026,Comuni,(500-1000],390881
+2026,Comuni,>1000,261583
+2026,Consorzi universitari,(0-25],18559
+2026,Consorzi universitari,(100-200],57949
+2026,Consorzi universitari,(200-500],11117
+2026,Consorzi universitari,(25-50],6599
+2026,Consorzi universitari,(50-100],5211
+2026,Consorzi universitari,(500-1000],1177
+2026,Consorzi universitari,>1000,1505
+2026,Enti comunali,(0-25],1785
+2026,Enti comunali,(100-200],7734
+2026,Enti comunali,(200-500],4563
+2026,Enti comunali,(25-50],7066
+2026,Enti comunali,(50-100],8062
+2026,Enti comunali,(500-1000],584
 2026,Enti comunali,>1000,552
-2026,Enti provinciali,(0-25],414
-2026,Enti provinciali,(100-200],333
-2026,Enti provinciali,(200-500],70
+2026,Enti provinciali,(0-25],416
+2026,Enti provinciali,(100-200],334
+2026,Enti provinciali,(200-500],71
 2026,Enti provinciali,(25-50],446
 2026,Enti provinciali,(50-100],289
-2026,Enti provinciali,(500-1000],180
+2026,Enti provinciali,(500-1000],182
 2026,Enti provinciali,>1000,125
 2026,Enti regionali,(0-25],818
 2026,Enti regionali,(100-200],14
@@ -327,140 +327,140 @@ anno,categoria,fascia_importo,numero_transazioni
 2026,Enti regionali,(50-100],19
 2026,Enti regionali,(500-1000],5
 2026,Enti regionali,>1000,34
-2026,"Ordini, collegi e consigli professionali",(0-25],160207
-2026,"Ordini, collegi e consigli professionali",(100-200],810383
-2026,"Ordini, collegi e consigli professionali",(200-500],281217
-2026,"Ordini, collegi e consigli professionali",(25-50],102974
-2026,"Ordini, collegi e consigli professionali",(50-100],409659
-2026,"Ordini, collegi e consigli professionali",(500-1000],5639
-2026,"Ordini, collegi e consigli professionali",>1000,5493
-2026,Province,(0-25],48328
-2026,Province,(100-200],113697
-2026,Province,(200-500],60444
-2026,Province,(25-50],193720
-2026,Province,(50-100],136413
-2026,Province,(500-1000],12083
-2026,Province,>1000,8646
-2026,Pubbliche amministrazioni centrali,(0-25],15188673
-2026,Pubbliche amministrazioni centrali,(100-200],3233184
-2026,Pubbliche amministrazioni centrali,(200-500],2967108
-2026,Pubbliche amministrazioni centrali,(25-50],4964585
-2026,Pubbliche amministrazioni centrali,(50-100],5588084
-2026,Pubbliche amministrazioni centrali,(500-1000],1189333
-2026,Pubbliche amministrazioni centrali,>1000,675630
-2026,Regioni,(0-25],548264
-2026,Regioni,(100-200],949011
-2026,Regioni,(200-500],816617
-2026,Regioni,(25-50],442330
-2026,Regioni,(50-100],400202
-2026,Regioni,(500-1000],61722
-2026,Regioni,>1000,34131
-2026,Ricerca,(0-25],2505
+2026,"Ordini, collegi e consigli professionali",(0-25],160502
+2026,"Ordini, collegi e consigli professionali",(100-200],812092
+2026,"Ordini, collegi e consigli professionali",(200-500],281714
+2026,"Ordini, collegi e consigli professionali",(25-50],103814
+2026,"Ordini, collegi e consigli professionali",(50-100],411038
+2026,"Ordini, collegi e consigli professionali",(500-1000],5650
+2026,"Ordini, collegi e consigli professionali",>1000,5500
+2026,Province,(0-25],48491
+2026,Province,(100-200],113994
+2026,Province,(200-500],60515
+2026,Province,(25-50],194112
+2026,Province,(50-100],136709
+2026,Province,(500-1000],12099
+2026,Province,>1000,8648
+2026,Pubbliche amministrazioni centrali,(0-25],15200133
+2026,Pubbliche amministrazioni centrali,(100-200],3241455
+2026,Pubbliche amministrazioni centrali,(200-500],2974464
+2026,Pubbliche amministrazioni centrali,(25-50],4968396
+2026,Pubbliche amministrazioni centrali,(50-100],5603511
+2026,Pubbliche amministrazioni centrali,(500-1000],1191930
+2026,Pubbliche amministrazioni centrali,>1000,676299
+2026,Regioni,(0-25],549167
+2026,Regioni,(100-200],950373
+2026,Regioni,(200-500],818235
+2026,Regioni,(25-50],443117
+2026,Regioni,(50-100],400782
+2026,Regioni,(500-1000],61841
+2026,Regioni,>1000,34149
+2026,Ricerca,(0-25],2549
 2026,Ricerca,(100-200],7333
-2026,Ricerca,(200-500],1015
+2026,Ricerca,(200-500],1017
 2026,Ricerca,(25-50],7255
 2026,Ricerca,(50-100],102
-2026,Ricerca,(500-1000],5417
-2026,Ricerca,>1000,925
-2026,Salute centrale,(0-25],829428
-2026,Salute centrale,(100-200],223092
-2026,Salute centrale,(200-500],39516
-2026,Salute centrale,(25-50],745851
-2026,Salute centrale,(50-100],125187
-2026,Salute centrale,(500-1000],4769
-2026,Salute centrale,>1000,9997
-2026,Salute locale,(0-25],1761116
-2026,Salute locale,(100-200],291226
-2026,Salute locale,(200-500],54463
-2026,Salute locale,(25-50],1736283
-2026,Salute locale,(50-100],471339
-2026,Salute locale,(500-1000],8372
-2026,Salute locale,>1000,12683
-2026,Salute regionale,(0-25],11915
+2026,Ricerca,(500-1000],5427
+2026,Ricerca,>1000,927
+2026,Salute centrale,(0-25],832027
+2026,Salute centrale,(100-200],223562
+2026,Salute centrale,(200-500],39629
+2026,Salute centrale,(25-50],748094
+2026,Salute centrale,(50-100],125416
+2026,Salute centrale,(500-1000],4778
+2026,Salute centrale,>1000,10020
+2026,Salute locale,(0-25],1766054
+2026,Salute locale,(100-200],291906
+2026,Salute locale,(200-500],54587
+2026,Salute locale,(25-50],1741354
+2026,Salute locale,(50-100],472616
+2026,Salute locale,(500-1000],8387
+2026,Salute locale,>1000,12696
+2026,Salute regionale,(0-25],11933
 2026,Salute regionale,(200-500],5
 2026,Salute regionale,(50-100],5
 2026,Salute regionale,(500-1000],21
 2026,Salute regionale,>1000,184
-2026,Salute servizi,(0-25],33409
-2026,Salute servizi,(100-200],13217
-2026,Salute servizi,(200-500],15181
-2026,Salute servizi,(25-50],25054
-2026,Salute servizi,(50-100],15228
-2026,Salute servizi,(500-1000],6508
-2026,Salute servizi,>1000,20500
-2026,Scuola,(0-25],3620169
-2026,Scuola,(100-200],936104
-2026,Scuola,(200-500],743054
-2026,Scuola,(25-50],1516526
-2026,Scuola,(50-100],825146
-2026,Scuola,(500-1000],70625
-2026,Scuola,>1000,8187
-2026,Tutte,(0-25],34713894
-2026,Tutte,(100-200],26520891
-2026,Tutte,(200-500],17405847
-2026,Tutte,(25-50],24399396
-2026,Tutte,(50-100],27656703
-2026,Tutte,(500-1000],3795940
-2026,Tutte,>1000,2133169
-2026,Università,(0-25],241787
-2026,Università,(100-200],285563
-2026,Università,(200-500],407446
-2026,Università,(25-50],237537
-2026,Università,(50-100],148850
-2026,Università,(500-1000],337762
-2026,Università,>1000,234513
-2026,Utility,(0-25],4038458
-2026,Utility,(100-200],11649260
-2026,Utility,(200-500],6177916
-2026,Utility,(25-50],7952808
-2026,Utility,(50-100],12916330
-2026,Utility,(500-1000],1262787
-2026,Utility,>1000,769722
-Complessivo,ACI,(0-25],76052853
-Complessivo,ACI,(100-200],84671500
-Complessivo,ACI,(200-500],74755850
-Complessivo,ACI,(25-50],30957861
-Complessivo,ACI,(50-100],23812719
-Complessivo,ACI,(500-1000],7275744
-Complessivo,ACI,>1000,598463
-Complessivo,Altri enti territoriali,(0-25],5912365
-Complessivo,Altri enti territoriali,(100-200],5025163
-Complessivo,Altri enti territoriali,(200-500],3049841
-Complessivo,Altri enti territoriali,(25-50],6221910
-Complessivo,Altri enti territoriali,(50-100],6013577
-Complessivo,Altri enti territoriali,(500-1000],493348
-Complessivo,Altri enti territoriali,>1000,546524
-Complessivo,Comuni,(0-25],37471618
-Complessivo,Comuni,(100-200],52086346
-Complessivo,Comuni,(200-500],27009926
-Complessivo,Comuni,(25-50],60140130
-Complessivo,Comuni,(50-100],74295066
-Complessivo,Comuni,(500-1000],5487688
-Complessivo,Comuni,>1000,3561072
-Complessivo,Consorzi universitari,(0-25],251175
-Complessivo,Consorzi universitari,(100-200],898998
-Complessivo,Consorzi universitari,(200-500],141843
-Complessivo,Consorzi universitari,(25-50],79632
-Complessivo,Consorzi universitari,(50-100],65408
-Complessivo,Consorzi universitari,(500-1000],21970
-Complessivo,Consorzi universitari,>1000,17096
-Complessivo,Enti comunali,(0-25],163817
-Complessivo,Enti comunali,(100-200],203105
-Complessivo,Enti comunali,(200-500],85447
-Complessivo,Enti comunali,(25-50],221194
-Complessivo,Enti comunali,(50-100],265869
-Complessivo,Enti comunali,(500-1000],12202
+2026,Salute servizi,(0-25],33522
+2026,Salute servizi,(100-200],13264
+2026,Salute servizi,(200-500],15237
+2026,Salute servizi,(25-50],25100
+2026,Salute servizi,(50-100],15258
+2026,Salute servizi,(500-1000],6524
+2026,Salute servizi,>1000,20549
+2026,Scuola,(0-25],3633940
+2026,Scuola,(100-200],939926
+2026,Scuola,(200-500],746005
+2026,Scuola,(25-50],1527813
+2026,Scuola,(50-100],829603
+2026,Scuola,(500-1000],70838
+2026,Scuola,>1000,8202
+2026,Tutte,(0-25],34770989
+2026,Tutte,(100-200],26577690
+2026,Tutte,(200-500],17442801
+2026,Tutte,(25-50],24459955
+2026,Tutte,(50-100],27724942
+2026,Tutte,(500-1000],3805866
+2026,Tutte,>1000,2137835
+2026,Università,(0-25],243167
+2026,Università,(100-200],286563
+2026,Università,(200-500],409774
+2026,Università,(25-50],238802
+2026,Università,(50-100],149533
+2026,Università,(500-1000],340377
+2026,Università,>1000,235623
+2026,Utility,(0-25],4048128
+2026,Utility,(100-200],11673915
+2026,Utility,(200-500],6191714
+2026,Utility,(25-50],7970943
+2026,Utility,(50-100],12944628
+2026,Utility,(500-1000],1265785
+2026,Utility,>1000,771943
+Complessivo,ACI,(0-25],76054898
+Complessivo,ACI,(100-200],84674525
+Complessivo,ACI,(200-500],74758075
+Complessivo,ACI,(25-50],30958862
+Complessivo,ACI,(50-100],23813551
+Complessivo,ACI,(500-1000],7275827
+Complessivo,ACI,>1000,598469
+Complessivo,Altri enti territoriali,(0-25],5913220
+Complessivo,Altri enti territoriali,(100-200],5025925
+Complessivo,Altri enti territoriali,(200-500],3050319
+Complessivo,Altri enti territoriali,(25-50],6223061
+Complessivo,Altri enti territoriali,(50-100],6014547
+Complessivo,Altri enti territoriali,(500-1000],493447
+Complessivo,Altri enti territoriali,>1000,546578
+Complessivo,Comuni,(0-25],37480336
+Complessivo,Comuni,(100-200],52096732
+Complessivo,Comuni,(200-500],27015197
+Complessivo,Comuni,(25-50],60154563
+Complessivo,Comuni,(50-100],74308781
+Complessivo,Comuni,(500-1000],5488801
+Complessivo,Comuni,>1000,3561545
+Complessivo,Consorzi universitari,(0-25],251285
+Complessivo,Consorzi universitari,(100-200],899276
+Complessivo,Consorzi universitari,(200-500],141895
+Complessivo,Consorzi universitari,(25-50],79700
+Complessivo,Consorzi universitari,(50-100],65446
+Complessivo,Consorzi universitari,(500-1000],21975
+Complessivo,Consorzi universitari,>1000,17100
+Complessivo,Enti comunali,(0-25],163824
+Complessivo,Enti comunali,(100-200],203124
+Complessivo,Enti comunali,(200-500],85453
+Complessivo,Enti comunali,(25-50],221215
+Complessivo,Enti comunali,(50-100],265890
+Complessivo,Enti comunali,(500-1000],12205
 Complessivo,Enti comunali,>1000,10577
 Complessivo,Enti donazioni,(0-25],13707
 Complessivo,Enti donazioni,(100-200],189
 Complessivo,Enti donazioni,(25-50],2400
 Complessivo,Enti donazioni,(50-100],857
-Complessivo,Enti provinciali,(0-25],8280
-Complessivo,Enti provinciali,(100-200],2607
-Complessivo,Enti provinciali,(200-500],2177
+Complessivo,Enti provinciali,(0-25],8282
+Complessivo,Enti provinciali,(100-200],2608
+Complessivo,Enti provinciali,(200-500],2178
 Complessivo,Enti provinciali,(25-50],9234
 Complessivo,Enti provinciali,(50-100],9311
-Complessivo,Enti provinciali,(500-1000],1395
+Complessivo,Enti provinciali,(500-1000],1397
 Complessivo,Enti provinciali,>1000,1103
 Complessivo,Enti regionali,(0-25],20988
 Complessivo,Enti regionali,(100-200],236
@@ -469,94 +469,94 @@ Complessivo,Enti regionali,(25-50],108
 Complessivo,Enti regionali,(50-100],215
 Complessivo,Enti regionali,(500-1000],133
 Complessivo,Enti regionali,>1000,672
-Complessivo,"Ordini, collegi e consigli professionali",(0-25],2595855
-Complessivo,"Ordini, collegi e consigli professionali",(100-200],6757908
-Complessivo,"Ordini, collegi e consigli professionali",(200-500],2453045
-Complessivo,"Ordini, collegi e consigli professionali",(25-50],1530242
-Complessivo,"Ordini, collegi e consigli professionali",(50-100],4908676
-Complessivo,"Ordini, collegi e consigli professionali",(500-1000],62799
-Complessivo,"Ordini, collegi e consigli professionali",>1000,59630
-Complessivo,Province,(0-25],899322
-Complessivo,Province,(100-200],1928075
-Complessivo,Province,(200-500],863413
-Complessivo,Province,(25-50],3367311
-Complessivo,Province,(50-100],2169497
-Complessivo,Province,(500-1000],165460
-Complessivo,Province,>1000,119439
-Complessivo,Pubbliche amministrazioni centrali,(0-25],212976128
-Complessivo,Pubbliche amministrazioni centrali,(100-200],47838562
-Complessivo,Pubbliche amministrazioni centrali,(200-500],44098707
-Complessivo,Pubbliche amministrazioni centrali,(25-50],61754379
-Complessivo,Pubbliche amministrazioni centrali,(50-100],76962818
-Complessivo,Pubbliche amministrazioni centrali,(500-1000],16530200
-Complessivo,Pubbliche amministrazioni centrali,>1000,10534443
-Complessivo,Regioni,(0-25],6894030
-Complessivo,Regioni,(100-200],16049805
-Complessivo,Regioni,(200-500],13767668
-Complessivo,Regioni,(25-50],5720369
-Complessivo,Regioni,(50-100],5996074
-Complessivo,Regioni,(500-1000],1036727
-Complessivo,Regioni,>1000,434445
-Complessivo,Ricerca,(0-25],48147
+Complessivo,"Ordini, collegi e consigli professionali",(0-25],2596150
+Complessivo,"Ordini, collegi e consigli professionali",(100-200],6759617
+Complessivo,"Ordini, collegi e consigli professionali",(200-500],2453542
+Complessivo,"Ordini, collegi e consigli professionali",(25-50],1531082
+Complessivo,"Ordini, collegi e consigli professionali",(50-100],4910055
+Complessivo,"Ordini, collegi e consigli professionali",(500-1000],62810
+Complessivo,"Ordini, collegi e consigli professionali",>1000,59637
+Complessivo,Province,(0-25],899485
+Complessivo,Province,(100-200],1928372
+Complessivo,Province,(200-500],863484
+Complessivo,Province,(25-50],3367703
+Complessivo,Province,(50-100],2169793
+Complessivo,Province,(500-1000],165476
+Complessivo,Province,>1000,119441
+Complessivo,Pubbliche amministrazioni centrali,(0-25],212987588
+Complessivo,Pubbliche amministrazioni centrali,(100-200],47846833
+Complessivo,Pubbliche amministrazioni centrali,(200-500],44106063
+Complessivo,Pubbliche amministrazioni centrali,(25-50],61758190
+Complessivo,Pubbliche amministrazioni centrali,(50-100],76978245
+Complessivo,Pubbliche amministrazioni centrali,(500-1000],16532797
+Complessivo,Pubbliche amministrazioni centrali,>1000,10535112
+Complessivo,Regioni,(0-25],6894933
+Complessivo,Regioni,(100-200],16051167
+Complessivo,Regioni,(200-500],13769286
+Complessivo,Regioni,(25-50],5721156
+Complessivo,Regioni,(50-100],5996654
+Complessivo,Regioni,(500-1000],1036846
+Complessivo,Regioni,>1000,434463
+Complessivo,Ricerca,(0-25],48191
 Complessivo,Ricerca,(100-200],21571
-Complessivo,Ricerca,(200-500],12938
+Complessivo,Ricerca,(200-500],12940
 Complessivo,Ricerca,(25-50],8905
 Complessivo,Ricerca,(50-100],2342
-Complessivo,Ricerca,(500-1000],19293
-Complessivo,Ricerca,>1000,8408
-Complessivo,Salute centrale,(0-25],9915229
-Complessivo,Salute centrale,(100-200],2659461
-Complessivo,Salute centrale,(200-500],465836
-Complessivo,Salute centrale,(25-50],7411969
-Complessivo,Salute centrale,(50-100],1536820
-Complessivo,Salute centrale,(500-1000],57032
-Complessivo,Salute centrale,>1000,125384
-Complessivo,Salute locale,(0-25],21741348
-Complessivo,Salute locale,(100-200],3672077
-Complessivo,Salute locale,(200-500],604402
-Complessivo,Salute locale,(25-50],17937422
-Complessivo,Salute locale,(50-100],5781253
-Complessivo,Salute locale,(500-1000],114972
-Complessivo,Salute locale,>1000,157886
-Complessivo,Salute regionale,(0-25],153024
+Complessivo,Ricerca,(500-1000],19303
+Complessivo,Ricerca,>1000,8410
+Complessivo,Salute centrale,(0-25],9917828
+Complessivo,Salute centrale,(100-200],2659931
+Complessivo,Salute centrale,(200-500],465949
+Complessivo,Salute centrale,(25-50],7414212
+Complessivo,Salute centrale,(50-100],1537049
+Complessivo,Salute centrale,(500-1000],57041
+Complessivo,Salute centrale,>1000,125407
+Complessivo,Salute locale,(0-25],21746286
+Complessivo,Salute locale,(100-200],3672757
+Complessivo,Salute locale,(200-500],604526
+Complessivo,Salute locale,(25-50],17942493
+Complessivo,Salute locale,(50-100],5782530
+Complessivo,Salute locale,(500-1000],114987
+Complessivo,Salute locale,>1000,157899
+Complessivo,Salute regionale,(0-25],153042
 Complessivo,Salute regionale,(100-200],1145
 Complessivo,Salute regionale,(200-500],693
-Complessivo,Salute regionale,(25-50],1296
+Complessivo,Salute regionale,(25-50],1297
 Complessivo,Salute regionale,(50-100],83
 Complessivo,Salute regionale,(500-1000],595
 Complessivo,Salute regionale,>1000,2412
-Complessivo,Salute servizi,(0-25],486180
-Complessivo,Salute servizi,(100-200],184020
-Complessivo,Salute servizi,(200-500],206883
-Complessivo,Salute servizi,(25-50],318443
-Complessivo,Salute servizi,(50-100],219160
-Complessivo,Salute servizi,(500-1000],91173
-Complessivo,Salute servizi,>1000,326793
-Complessivo,Scuola,(0-25],42210698
-Complessivo,Scuola,(100-200],7372504
-Complessivo,Scuola,(200-500],4875111
-Complessivo,Scuola,(25-50],12942838
-Complessivo,Scuola,(50-100],7234559
-Complessivo,Scuola,(500-1000],631848
-Complessivo,Scuola,>1000,112396
-Complessivo,Tutte,(0-25],493455206
-Complessivo,Tutte,(100-200],399136914
-Complessivo,Tutte,(200-500],252957429
-Complessivo,Tutte,(25-50],351138560
-Complessivo,Tutte,(50-100],400406246
-Complessivo,Tutte,(500-1000],52322906
-Complessivo,Tutte,>1000,30916709
-Complessivo,Università,(0-25],5423384
-Complessivo,Università,(100-200],8925366
-Complessivo,Università,(200-500],7088725
-Complessivo,Università,(25-50],4385164
-Complessivo,Università,(50-100],2859264
-Complessivo,Università,(500-1000],6029814
-Complessivo,Università,>1000,3461497
-Complessivo,Utility,(0-25],70216218
-Complessivo,Utility,(100-200],160835797
-Complessivo,Utility,(200-500],73473290
-Complessivo,Utility,(25-50],138126420
-Complessivo,Utility,(50-100],188270998
-Complessivo,Utility,(500-1000],14290008
-Complessivo,Utility,>1000,10838015
+Complessivo,Salute servizi,(0-25],486293
+Complessivo,Salute servizi,(100-200],184067
+Complessivo,Salute servizi,(200-500],206939
+Complessivo,Salute servizi,(25-50],318489
+Complessivo,Salute servizi,(50-100],219190
+Complessivo,Salute servizi,(500-1000],91189
+Complessivo,Salute servizi,>1000,326842
+Complessivo,Scuola,(0-25],42224469
+Complessivo,Scuola,(100-200],7376326
+Complessivo,Scuola,(200-500],4878062
+Complessivo,Scuola,(25-50],12954125
+Complessivo,Scuola,(50-100],7239016
+Complessivo,Scuola,(500-1000],632061
+Complessivo,Scuola,>1000,112411
+Complessivo,Tutte,(0-25],493512301
+Complessivo,Tutte,(100-200],399193713
+Complessivo,Tutte,(200-500],252994383
+Complessivo,Tutte,(25-50],351199119
+Complessivo,Tutte,(50-100],400474485
+Complessivo,Tutte,(500-1000],52332832
+Complessivo,Tutte,>1000,30921375
+Complessivo,Università,(0-25],5424764
+Complessivo,Università,(100-200],8926366
+Complessivo,Università,(200-500],7091053
+Complessivo,Università,(25-50],4386429
+Complessivo,Università,(50-100],2859947
+Complessivo,Università,(500-1000],6032429
+Complessivo,Università,>1000,3462607
+Complessivo,Utility,(0-25],70225888
+Complessivo,Utility,(100-200],160860452
+Complessivo,Utility,(200-500],73487088
+Complessivo,Utility,(25-50],138144555
+Complessivo,Utility,(50-100],188299296
+Complessivo,Utility,(500-1000],14293006
+Complessivo,Utility,>1000,10840236
