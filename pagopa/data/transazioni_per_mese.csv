@@ -364,10 +364,10 @@ anno_mese,categoria,numero_transazioni
 2025-07,Comuni,5560207
 2025-07,Consorzi universitari,29817
 2025-07,Enti comunali,9359
-2025-07,Enti provinciali,150
+2025-07,Enti provinciali,135
 2025-07,Enti regionali,23
 2025-07,"Ordini, collegi e consigli professionali",166847
-2025-07,Province,187543
+2025-07,Province,187558
 2025-07,Pubbliche amministrazioni centrali,11459970
 2025-07,Regioni,622668
 2025-07,Ricerca,18060
@@ -384,10 +384,10 @@ anno_mese,categoria,numero_transazioni
 2025-08,Comuni,4155455
 2025-08,Consorzi universitari,23079
 2025-08,Enti comunali,10465
-2025-08,Enti provinciali,108
+2025-08,Enti provinciali,67
 2025-08,Enti regionali,19
 2025-08,"Ordini, collegi e consigli professionali",71857
-2025-08,Province,153575
+2025-08,Province,153616
 2025-08,Pubbliche amministrazioni centrali,6606288
 2025-08,Regioni,531661
 2025-08,Ricerca,2657
@@ -404,10 +404,10 @@ anno_mese,categoria,numero_transazioni
 2025-09,Comuni,5803896
 2025-09,Consorzi universitari,55060
 2025-09,Enti comunali,9173
-2025-09,Enti provinciali,195
+2025-09,Enti provinciali,83
 2025-09,Enti regionali,27
 2025-09,"Ordini, collegi e consigli professionali",129975
-2025-09,Province,182557
+2025-09,Province,182669
 2025-09,Pubbliche amministrazioni centrali,9189959
 2025-09,Regioni,1210078
 2025-09,Ricerca,2271
@@ -424,10 +424,10 @@ anno_mese,categoria,numero_transazioni
 2025-10,Comuni,5926882
 2025-10,Consorzi universitari,61417
 2025-10,Enti comunali,11290
-2025-10,Enti provinciali,314
+2025-10,Enti provinciali,74
 2025-10,Enti regionali,61
 2025-10,"Ordini, collegi e consigli professionali",130153
-2025-10,Province,206374
+2025-10,Province,206614
 2025-10,Pubbliche amministrazioni centrali,10555173
 2025-10,Regioni,674226
 2025-10,Ricerca,7911
@@ -444,10 +444,10 @@ anno_mese,categoria,numero_transazioni
 2025-11,Comuni,6255723
 2025-11,Consorzi universitari,40971
 2025-11,Enti comunali,10913
-2025-11,Enti provinciali,250
+2025-11,Enti provinciali,79
 2025-11,Enti regionali,37
 2025-11,"Ordini, collegi e consigli professionali",121269
-2025-11,Province,181883
+2025-11,Province,182054
 2025-11,Pubbliche amministrazioni centrali,9323661
 2025-11,Regioni,440476
 2025-11,Ricerca,921
@@ -464,10 +464,10 @@ anno_mese,categoria,numero_transazioni
 2025-12,Comuni,7153341
 2025-12,Consorzi universitari,27309
 2025-12,Enti comunali,9132
-2025-12,Enti provinciali,295
+2025-12,Enti provinciali,91
 2025-12,Enti regionali,76
 2025-12,"Ordini, collegi e consigli professionali",134734
-2025-12,Province,156840
+2025-12,Province,157044
 2025-12,Pubbliche amministrazioni centrali,9118667
 2025-12,Regioni,514644
 2025-12,Ricerca,1746
@@ -484,10 +484,10 @@ anno_mese,categoria,numero_transazioni
 2026-01,Comuni,5447722
 2026-01,Consorzi universitari,28350
 2026-01,Enti comunali,7504
-2026-01,Enti provinciali,410
+2026-01,Enti provinciali,162
 2026-01,Enti regionali,823
 2026-01,"Ordini, collegi e consigli professionali",445132
-2026-01,Province,151909
+2026-01,Province,152157
 2026-01,Pubbliche amministrazioni centrali,9846333
 2026-01,Regioni,1323640
 2026-01,Ricerca,1834
@@ -504,10 +504,10 @@ anno_mese,categoria,numero_transazioni
 2026-02,Comuni,4712616
 2026-02,Consorzi universitari,26154
 2026-02,Enti comunali,8478
-2026-02,Enti provinciali,569
+2026-02,Enti provinciali,319
 2026-02,Enti regionali,50
 2026-02,"Ordini, collegi e consigli professionali",519045
-2026-02,Province,170517
+2026-02,Province,170767
 2026-02,Pubbliche amministrazioni centrali,9872033
 2026-02,Regioni,1046069
 2026-02,Ricerca,6640
@@ -524,10 +524,10 @@ anno_mese,categoria,numero_transazioni
 2026-03,Comuni,5315300
 2026-03,Consorzi universitari,35559
 2026-03,Enti comunali,10385
-2026-03,Enti provinciali,630
+2026-03,Enti provinciali,253
 2026-03,Enti regionali,38
 2026-03,"Ordini, collegi e consigli professionali",674795
-2026-03,Province,185298
+2026-03,Province,185675
 2026-03,Pubbliche amministrazioni centrali,10474610
 2026-03,Regioni,686103
 2026-03,Ricerca,14053
@@ -544,10 +544,10 @@ anno_mese,categoria,numero_transazioni
 2026-04,Comuni,5056615
 2026-04,Consorzi universitari,32959
 2026-04,Enti comunali,9902
-2026-04,Enti provinciali,939
+2026-04,Enti provinciali,345
 2026-04,Enti regionali,41
 2026-04,"Ordini, collegi e consigli professionali",470831
-2026-04,Province,181400
+2026-04,Province,181994
 2026-04,Pubbliche amministrazioni centrali,9821107
 2026-04,Regioni,593870
 2026-04,Ricerca,6218
@@ -559,23 +559,23 @@ anno_mese,categoria,numero_transazioni
 2026-04,Tutte,37111612
 2026-04,Università,537489
 2026-04,Utility,13222417
-2026-05,ACI,4224866
-2026-05,Altri enti territoriali,430844
-2026-05,Comuni,4087985
-2026-05,Consorzi universitari,25448
-2026-05,Enti comunali,7629
-2026-05,Enti provinciali,560
-2026-05,Enti regionali,40
-2026-05,"Ordini, collegi e consigli professionali",241852
-2026-05,Province,130625
-2026-05,Pubbliche amministrazioni centrali,8037300
-2026-05,Regioni,953684
-2026-05,Ricerca,3905
-2026-05,Salute centrale,381023
-2026-05,Salute locale,910524
-2026-05,Salute regionale,1627
-2026-05,Salute servizi,27696
-2026-05,Scuola,1102336
-2026-05,Tutte,32720127
-2026-05,Università,504861
-2026-05,Utility,11644726
+2026-05,ACI,4556936
+2026-05,Altri enti territoriali,455835
+2026-05,Comuni,4306515
+2026-05,Consorzi universitari,26745
+2026-05,Enti comunali,8066
+2026-05,Enti provinciali,147
+2026-05,Enti regionali,41
+2026-05,"Ordini, collegi e consigli professionali",256298
+2026-05,Province,137880
+2026-05,Pubbliche amministrazioni centrali,8520324
+2026-05,Regioni,1025373
+2026-05,Ricerca,4381
+2026-05,Salute centrale,403094
+2026-05,Salute locale,959592
+2026-05,Salute regionale,1683
+2026-05,Salute servizi,28851
+2026-05,Scuola,1130784
+2026-05,Tutte,34622532
+2026-05,Università,538352
+2026-05,Utility,12258875
