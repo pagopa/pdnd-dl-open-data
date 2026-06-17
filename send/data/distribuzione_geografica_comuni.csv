@@ -1,21 +1,81 @@
-regione,numero_comuni,percentuale_comuni
-Abruzzo,282,0.92
-Basilicata,124,0.95
-Calabria,376,0.93
-Campania,518,0.94
-Emilia-Romagna,316,0.96
-Friuli-Venezia Giulia,173,0.8
-Lazio,335,0.89
-Liguria,196,0.84
-Lombardia,1240,0.83
-Marche,196,0.87
-Molise,130,0.96
-Piemonte,1003,0.85
-Puglia,253,0.98
-Sardegna,294,0.78
-Sicilia,358,0.92
-Toscana,258,0.95
-Trentino-Alto Adige/Südtirol,234,0.83
-Umbria,83,0.9
-Valle d'Aosta/Vallée d'Aoste,62,0.84
-Veneto,530,0.95
+anno,regione,numero_comuni,percentuale_comuni
+Complessivo,Abruzzo,282,0.92
+Complessivo,Basilicata,124,0.95
+Complessivo,Calabria,376,0.93
+Complessivo,Campania,518,0.94
+Complessivo,Emilia-Romagna,316,0.96
+Complessivo,Friuli-Venezia Giulia,173,0.8
+Complessivo,Lazio,335,0.89
+Complessivo,Liguria,196,0.84
+Complessivo,Lombardia,1240,0.83
+Complessivo,Marche,196,0.87
+Complessivo,Molise,130,0.96
+Complessivo,Piemonte,1003,0.85
+Complessivo,Puglia,253,0.98
+Complessivo,Sardegna,294,0.78
+Complessivo,Sicilia,358,0.92
+Complessivo,Toscana,258,0.95
+Complessivo,Trentino-Alto Adige/Südtirol,234,0.83
+Complessivo,Umbria,83,0.9
+Complessivo,Valle d'Aosta/Vallée d'Aoste,62,0.84
+Complessivo,Veneto,530,0.95
+2026,Abruzzo,91,0.3
+2026,Basilicata,21,0.16
+2026,Calabria,83,0.21
+2026,Campania,178,0.32
+2026,Emilia-Romagna,170,0.52
+2026,Friuli-Venezia Giulia,103,0.48
+2026,Lazio,153,0.4
+2026,Liguria,94,0.4
+2026,Lombardia,730,0.49
+2026,Marche,80,0.36
+2026,Molise,37,0.27
+2026,Piemonte,468,0.4
+2026,Puglia,126,0.49
+2026,Sardegna,111,0.29
+2026,Sicilia,120,0.31
+2026,Toscana,180,0.66
+2026,Trentino-Alto Adige/Südtirol,81,0.29
+2026,Umbria,54,0.59
+2026,Valle d'Aosta/Vallée d'Aoste,30,0.41
+2026,Veneto,283,0.51
+2025,Abruzzo,164,0.54
+2025,Basilicata,53,0.4
+2025,Calabria,163,0.4
+2025,Campania,284,0.52
+2025,Emilia-Romagna,256,0.78
+2025,Friuli-Venezia Giulia,139,0.65
+2025,Lazio,210,0.56
+2025,Liguria,137,0.59
+2025,Lombardia,1000,0.67
+2025,Marche,123,0.55
+2025,Molise,55,0.4
+2025,Piemonte,743,0.63
+2025,Puglia,179,0.7
+2025,Sardegna,191,0.51
+2025,Sicilia,171,0.44
+2025,Toscana,219,0.8
+2025,Trentino-Alto Adige/Südtirol,203,0.72
+2025,Umbria,60,0.65
+2025,Valle d'Aosta/Vallée d'Aoste,31,0.42
+2025,Veneto,452,0.81
+2024,Abruzzo,131,0.43
+2024,Basilicata,87,0.66
+2024,Calabria,175,0.43
+2024,Campania,297,0.54
+2024,Emilia-Romagna,87,0.26
+2024,Friuli-Venezia Giulia,68,0.32
+2024,Lazio,148,0.39
+2024,Liguria,82,0.35
+2024,Lombardia,571,0.38
+2024,Marche,77,0.34
+2024,Molise,74,0.54
+2024,Piemonte,332,0.28
+2024,Puglia,131,0.51
+2024,Sardegna,113,0.3
+2024,Sicilia,190,0.49
+2024,Toscana,109,0.4
+2024,Trentino-Alto Adige/Südtirol,37,0.13
+2024,Umbria,38,0.41
+2024,Valle d'Aosta/Vallée d'Aoste,16,0.22
+2024,Veneto,136,0.24
