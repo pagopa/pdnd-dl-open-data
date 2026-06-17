@@ -1,7 +1,7 @@
 
 # Numero di notifiche per mese ed anno
 
-Il file riporta il numero di notifiche per anno e mese degli ultimi 3 anni.
+Il file riporta il numero di notifiche SEND inviate (Servizio Notifiche Digitali) analogiche e digitali. Il dato è sugli ultimi 3 anni e un valore complessivo su tutto lo storico.
 
 ## Aggiornamento dati
 
