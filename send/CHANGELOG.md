@@ -1,3 +1,11 @@
+## Changes on 2026-06-17 06:53 UTC
+
+### Created
+
+- `distribuzione_atti_notifiche.md`
+- `enti_su_send.md`
+- `messaggi_di_cortesia.md`
+
 ## Changes on 2025-10-22 19:50 UTC
 
 ### Created
