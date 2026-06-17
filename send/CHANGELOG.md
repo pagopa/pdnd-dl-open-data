@@ -1,3 +1,14 @@
+## Changes on 2026-06-17 07:52 UTC
+
+### Created
+
+- `distribuzione_atti_notifiche.csv`
+- `distribuzione_atti_notifiche.json`
+- `enti_su_send.csv`
+- `enti_su_send.json`
+- `messaggi_di_cortesia.csv`
+- `messaggi_di_cortesia.json`
+
 ## Changes on 2026-06-17 06:53 UTC
 
 ### Created
