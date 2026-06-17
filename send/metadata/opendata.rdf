@@ -20,12 +20,15 @@
       <dct:title>Data Theme Vocabulary</dct:title>
     </skos:ConceptScheme>
   </dcat:themeTaxonomy>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
   <dcat:dataset rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/notifiche_per_mese.md"/>
 <dcat:dataset rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_geografica_comuni.md"/>
 <dcat:dataset rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_ambiti_notifiche.md"/>
+<dcat:dataset rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/enti_su_send.md"/>
+<dcat:dataset rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/messaggi_di_cortesia.md"/>
+<dcat:dataset rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_atti_notifiche.md"/>
 </dcatapit:Catalog>
 
     
@@ -57,8 +60,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -98,8 +101,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -139,8 +142,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-16</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-16</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -149,6 +152,129 @@
 <dcat:keyword>pnrr</dcat:keyword>
   <dcat:distribution rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_ambiti_notifiche.csv"/>
   <dcat:distribution rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_ambiti_notifiche.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/enti_su_send.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>SEND - Enti aderenti a SEND per anno</dct:title>
+  <dct:landingpage>https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/enti_su_send.csv</dct:landingpage>
+  <dct:description>Numero di enti aderenti che hanno inviato almeno una notifica SEND</dct:description>
+  <dct:identifier>5N2TR557:enti_su_send</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:issued>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dcat:keyword>SEND</dcat:keyword>
+<dcat:keyword>notifiche-digitali</dcat:keyword>
+<dcat:keyword>notifiche-a-valore-legale</dcat:keyword>
+<dcat:keyword>piattaforma-notifiche</dcat:keyword>
+<dcat:keyword>pnrr</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/enti_su_send.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/enti_su_send.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/messaggi_di_cortesia.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>SEND - Andamento del numero di avvisi inviati</dct:title>
+  <dct:landingpage>https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/messaggi_di_cortesia.csv</dct:landingpage>
+  <dct:description>Numero di avvisi inviati per notifiche SEND</dct:description>
+  <dct:identifier>5N2TR557:messaggi_di_cortesia</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:issued>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dcat:keyword>SEND</dcat:keyword>
+<dcat:keyword>notifiche-digitali</dcat:keyword>
+<dcat:keyword>notifiche-a-valore-legale</dcat:keyword>
+<dcat:keyword>piattaforma-notifiche</dcat:keyword>
+<dcat:keyword>pnrr</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/messaggi_di_cortesia.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/messaggi_di_cortesia.json"/>
+</dcatapit:Dataset>
+
+
+<dcatapit:Dataset rdf:about="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_atti_notifiche.md">
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
+  <dcat:theme rdf:resource="http://publications.europa.eu/resource/authority/data-theme/GOVE"/>
+  <dct:license/>
+  <dct:title>SEND - Distribuzione delle principali tipologie di atti notificati da SEND</dct:title>
+  <dct:landingpage>https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_atti_notifiche.csv</dct:landingpage>
+  <dct:description>Numero dei principali 10 atti inviati tramite SEND</dct:description>
+  <dct:identifier>5N2TR557:distribuzione_atti_notifiche</dct:identifier>
+  <dct:accrualPeriodicity rdf:resource="http://publications.europa.eu/resource/authority/frequency/DAILY"/>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dct:rightsHolder>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:rightsHolder>
+  <dct:publisher>
+    <dcatapit:Agent rdf:about="5N2TR557">
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Organization"/>
+      <rdf:type rdf:resource="http://xmlns.com/foaf/0.1/Agent"/>
+      <dct:identifier>5N2TR557</dct:identifier>
+      <foaf:name>PagoPA S.p.A.</foaf:name>
+    </dcatapit:Agent>
+  </dct:publisher>
+  <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
+  <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
+  <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-17</dct:issued>
+  <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
+  <dcat:keyword>SEND</dcat:keyword>
+<dcat:keyword>notifiche-digitali</dcat:keyword>
+<dcat:keyword>notifiche-a-valore-legale</dcat:keyword>
+<dcat:keyword>piattaforma-notifiche</dcat:keyword>
+<dcat:keyword>pnrr</dcat:keyword>
+  <dcat:distribution rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_atti_notifiche.csv"/>
+  <dcat:distribution rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_atti_notifiche.json"/>
 </dcatapit:Dataset>
 
     
@@ -240,6 +366,99 @@
   <dct:format rdf:resource="JSON"/>
   <dct:description>File in formato JSON per l'interoperabilità</dct:description>
   <dct:title>SEND - Distribuzione dei principali ambiti di notifica JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/enti_su_send.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pagopa/pdnd-dl-open-data/main/send/data/enti_su_send.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>SEND - Enti aderenti a SEND per anno CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/enti_su_send.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pagopa/pdnd-dl-open-data/main/send/data/enti_su_send.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>SEND - Enti aderenti a SEND per anno JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/messaggi_di_cortesia.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pagopa/pdnd-dl-open-data/main/send/data/messaggi_di_cortesia.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>SEND - Andamento del numero di avvisi inviati CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/messaggi_di_cortesia.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pagopa/pdnd-dl-open-data/main/send/data/messaggi_di_cortesia.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>SEND - Andamento del numero di avvisi inviati JSON</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+
+
+    
+<dcatapit:Distribution rdf:about="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_atti_notifiche.csv">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pagopa/pdnd-dl-open-data/main/send/data/distribuzione_atti_notifiche.csv"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="CSV"/>
+  <dct:description>File in formato CSV per l'interoperabilità</dct:description>
+  <dct:title>SEND - Distribuzione delle principali tipologie di atti notificati da SEND CSV</dct:title>
+  <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
+</dcatapit:Distribution>
+<dcatapit:Distribution rdf:about="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_atti_notifiche.json">
+  <dcat:accessURL rdf:resource="https://raw.githubusercontent.com/pagopa/pdnd-dl-open-data/main/send/data/distribuzione_atti_notifiche.json"/>
+  <dct:license>
+    <dcatapit:LicenseDocument rdf:about="https://w3id.org/italia/controlled-vocabulary/licences/A11_CCO10">
+      <rdf:type rdf:resource="dct:LicenseDocument"/>
+      <dct:type rdf:resource="http://purl.org/adms/licencetype/Attribution"/>
+      <foaf:name>Creative Commons CC0 1.0 Universale - Public Domain Dedication (CC0 1.0)</foaf:name>
+    </dcatapit:LicenseDocument>
+  </dct:license>
+  <dct:format rdf:resource="JSON"/>
+  <dct:description>File in formato JSON per l'interoperabilità</dct:description>
+  <dct:title>SEND - Distribuzione delle principali tipologie di atti notificati da SEND JSON</dct:title>
   <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Distribution"/>
 </dcatapit:Distribution>
 
