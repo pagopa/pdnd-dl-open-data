@@ -20,8 +20,8 @@
       <dct:title>Data Theme Vocabulary</dct:title>
     </skos:ConceptScheme>
   </dcat:themeTaxonomy>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:issued>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
   <dcat:dataset rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/notifiche_per_mese.md"/>
 <dcat:dataset rdf:resource="https://github.com/pagopa/pdnd-dl-open-data/tree/main/send/data/distribuzione_geografica_comuni.md"/>
@@ -60,8 +60,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -101,8 +101,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -142,8 +142,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -183,8 +183,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -224,8 +224,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
@@ -265,8 +265,8 @@
   <dct:subject rdf:resource="http://eurovoc.europa.eu/100210"/>
   <dct:language rdf:resource="http://publications.europa.eu/resource/authority/language/ITA"/>
   <dct:license rdf:resource="https://creativecommons.org/licenses/by/4.0/"/>
-  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:modified>
-  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-29</dct:issued>
+  <dct:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:modified>
+  <dct:issued rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2026-06-30</dct:issued>
   <dcat:contactPoint rdf:resource="https://notifichedigitali.it/numeri"/>
   <dcat:keyword>SEND</dcat:keyword>
 <dcat:keyword>notifiche-digitali</dcat:keyword>
