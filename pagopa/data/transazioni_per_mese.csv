@@ -581,14 +581,14 @@ anno_mese,categoria,numero_transazioni
 2026-05,Utility,14771811
 2026-06,ACI,3967001
 2026-06,Altri enti territoriali,728141
-2026-06,Comuni,6494150
+2026-06,Comuni,6494151
 2026-06,Consorzi universitari,27374
 2026-06,Enti comunali,10065
 2026-06,Enti provinciali,125
 2026-06,Enti regionali,23
 2026-06,"Ordini, collegi e consigli professionali",442346
 2026-06,Province,178065
-2026-06,Pubbliche amministrazioni centrali,10338267
+2026-06,Pubbliche amministrazioni centrali,10338271
 2026-06,Regioni,862021
 2026-06,Ricerca,1373
 2026-06,Salute centrale,459689
@@ -596,24 +596,26 @@ anno_mese,categoria,numero_transazioni
 2026-06,Salute regionale,1423
 2026-06,Salute servizi,50856
 2026-06,Scuola,302493
-2026-06,Tutte,40323626
+2026-06,Tutte,40323632
 2026-06,Università,435912
-2026-06,Utility,14912124
-2026-07,ACI,336732
-2026-07,Altri enti territoriali,59438
-2026-07,Comuni,660231
-2026-07,Consorzi universitari,2031
-2026-07,Enti comunali,1127
-2026-07,"Ordini, collegi e consigli professionali",27045
-2026-07,Province,16060
-2026-07,Pubbliche amministrazioni centrali,1031422
-2026-07,Regioni,63838
-2026-07,Ricerca,110
-2026-07,Salute centrale,40531
-2026-07,Salute locale,93534
-2026-07,Salute regionale,146
-2026-07,Salute servizi,5115
-2026-07,Scuola,39632
-2026-07,Tutte,3970904
-2026-07,Università,27529
-2026-07,Utility,1565576
+2026-06,Utility,14912125
+2026-07,ACI,468495
+2026-07,Altri enti territoriali,81927
+2026-07,Comuni,929455
+2026-07,Consorzi universitari,2902
+2026-07,Enti comunali,1576
+2026-07,Enti provinciali,6
+2026-07,Enti regionali,5
+2026-07,"Ordini, collegi e consigli professionali",38445
+2026-07,Province,22970
+2026-07,Pubbliche amministrazioni centrali,1520793
+2026-07,Regioni,96693
+2026-07,Ricerca,158
+2026-07,Salute centrale,56264
+2026-07,Salute locale,131658
+2026-07,Salute regionale,212
+2026-07,Salute servizi,7012
+2026-07,Scuola,55697
+2026-07,Tutte,5592652
+2026-07,Università,38483
+2026-07,Utility,2138722
