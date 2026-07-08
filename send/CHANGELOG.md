@@ -1,3 +1,9 @@
+## Changes on 2026-07-08 06:43 UTC
+
+### Created
+
+- `notifiche_per_categoria.md`
+
 ## Changes on 2026-06-17 07:52 UTC
 
 ### Created
