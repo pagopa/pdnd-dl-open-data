@@ -1,24 +1,24 @@
 anno,tipologia_di_atto,notifiche_inviate,ranking
-Complessivo,Notifiche Violazioni al Codice della Strada,16495045,1
-Complessivo,Notifiche Riscossione Bollo non pagato,12082510,2
-Complessivo,Comunicazioni relative a riscossioni coattive e ingiunzioni fiscali,5013030,3
-Complessivo,Notifiche relative a Contributi verso l'ente previdenziale,4299156,4
-Complessivo,Notifiche Riscossione Tributi con pagamento,4036593,5
-Complessivo,Notifiche dei provvedimenti di recupero del credito,2909180,6
-Complessivo,Notifiche dei provvedimenti di recupero indebiti,295659,7
-Complessivo,Notifica di concessione/diniego di cittadinanza,295205,8
-Complessivo,Notifiche Riscossione Tributi senza pagamento,162928,9
-Complessivo,Notifiche riscossione entrate patrimoniali con pagamento,122863,10
-2026,Notifiche Violazioni al Codice della Strada,7129089,1
-2026,Notifiche Riscossione Bollo non pagato,3067169,2
-2026,Comunicazioni relative a riscossioni coattive e ingiunzioni fiscali,1770964,3
-2026,Notifiche relative a Contributi verso l'ente previdenziale,1155055,4
-2026,Notifiche Riscossione Tributi con pagamento,1139967,5
-2026,Notifiche dei provvedimenti di recupero del credito,847964,6
-2026,Notifiche dei provvedimenti di recupero indebiti,295659,7
-2026,Notifica di concessione/diniego di cittadinanza,67632,8
-2026,Notifiche relative al Pagamento nei confronti della Sanità,58596,9
-2026,Notifiche Riscossione Tributi senza pagamento,56842,10
+Complessivo,Notifiche Violazioni al Codice della Strada,16554580,1
+Complessivo,Notifiche Riscossione Bollo non pagato,12083010,2
+Complessivo,Comunicazioni relative a riscossioni coattive e ingiunzioni fiscali,5018087,3
+Complessivo,Notifiche relative a Contributi verso l'ente previdenziale,4301615,4
+Complessivo,Notifiche Riscossione Tributi con pagamento,4040224,5
+Complessivo,Notifiche dei provvedimenti di recupero del credito,2909183,6
+Complessivo,Notifiche dei provvedimenti di recupero indebiti,298000,7
+Complessivo,Notifica di concessione/diniego di cittadinanza,295812,8
+Complessivo,Notifiche Riscossione Tributi senza pagamento,163174,9
+Complessivo,Notifiche riscossione entrate patrimoniali con pagamento,122866,10
+2026,Notifiche Violazioni al Codice della Strada,7188624,1
+2026,Notifiche Riscossione Bollo non pagato,3067669,2
+2026,Comunicazioni relative a riscossioni coattive e ingiunzioni fiscali,1776021,3
+2026,Notifiche relative a Contributi verso l'ente previdenziale,1157514,4
+2026,Notifiche Riscossione Tributi con pagamento,1143598,5
+2026,Notifiche dei provvedimenti di recupero del credito,847967,6
+2026,Notifiche dei provvedimenti di recupero indebiti,298000,7
+2026,Notifica di concessione/diniego di cittadinanza,68239,8
+2026,Notifiche relative al Pagamento nei confronti della Sanità,58599,9
+2026,Notifiche Riscossione Tributi senza pagamento,57116,10
 2025,Notifiche Violazioni al Codice della Strada,7532820,1
 2025,Notifiche Riscossione Bollo non pagato,3896307,2
 2025,Notifiche Riscossione Tributi con pagamento,2142995,3
@@ -46,6 +46,6 @@ Complessivo,Notifiche riscossione entrate patrimoniali con pagamento,122863,10
 2023,Notifica di concessione/diniego di cittadinanza,3000,5
 2023,Notifiche Violazioni extra CdS,715,6
 2023,Notifiche comunicazioni VL relative ad ufficio anagrafe,225,7
-2023,Notifiche Riscossione Tributi senza pagamento,207,8
+2023,Notifiche Riscossione Tributi senza pagamento,179,8
 2023,Ordinanze Comunali senza pagamento,97,9
 2023,Notifiche per sollecito pagamento servizi scolastici,80,10
