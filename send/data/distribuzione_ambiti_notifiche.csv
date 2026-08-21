@@ -1,25 +1,25 @@
 anno,ambito,numero_notifiche,ranking
-Complessivo,Polizia Locale,15679358,1
-Complessivo,Recupero Bolli non Pagati,12085674,2
-Complessivo,Riscossione Coattiva,5053951,3
-Complessivo,Contributi,4317524,4
-Complessivo,Tributi,4254106,5
-Complessivo,Avvisi di addebito,2916118,6
-Complessivo,Polizia Provinciale,1237038,7
-Complessivo,Recupero indebiti,312153,8
-Complessivo,Decreto,297613,9
-Complessivo,Patrimonio,125483,10
-2026,Polizia Locale,6642403,1
-2026,Recupero Bolli non Pagati,3070333,2
-2026,Riscossione Coattiva,1811885,3
-2026,Tributi,1251422,4
-2026,Contributi,1173423,5
-2026,Avvisi di addebito,854902,6
-2026,Polizia Provinciale,842275,7
-2026,Recupero indebiti,312153,8
-2026,Decreto,70042,9
-2026,Ticket,60673,10
-2025,Polizia Locale,7187156,1
+Complessivo,Polizia Locale,15833613,1
+Complessivo,Recupero Bolli non Pagati,12090482,2
+Complessivo,Riscossione Coattiva,5085068,3
+Complessivo,Contributi,4331314,4
+Complessivo,Tributi,4270760,5
+Complessivo,Avvisi di addebito,2916754,6
+Complessivo,Polizia Provinciale,1257559,7
+Complessivo,Recupero indebiti,319391,8
+Complessivo,Decreto,298999,9
+Complessivo,Patrimonio,125649,10
+2026,Polizia Locale,6796659,1
+2026,Recupero Bolli non Pagati,3075141,2
+2026,Riscossione Coattiva,1843002,3
+2026,Tributi,1268077,4
+2026,Contributi,1187213,5
+2026,Polizia Provinciale,862796,6
+2026,Avvisi di addebito,855538,7
+2026,Recupero indebiti,319391,8
+2026,Decreto,71428,9
+2026,Ticket,60684,10
+2025,Polizia Locale,7187155,1
 2025,Recupero Bolli non Pagati,3896307,2
 2025,Tributi,2234603,3
 2025,Avvisi di addebito,2061216,4
@@ -33,7 +33,7 @@ Complessivo,Patrimonio,125483,10
 2024,Polizia Locale,1835469,2
 2024,Contributi,1653895,3
 2024,Riscossione Coattiva,1006468,4
-2024,Tributi,699102,5
+2024,Tributi,699101,5
 2024,Decreto,120985,6
 2024,Patrimonio,46373,7
 2024,Recupero ticket esenzione da reddito,10029,8
