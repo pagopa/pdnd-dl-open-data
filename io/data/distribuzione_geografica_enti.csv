@@ -1,9 +1,9 @@
 regione,categoria,numero_enti,numero_servizi
 Calabria,Comuni,397,13298
-Lombardia,Comuni,1440,40916
+Lombardia,Comuni,1440,40917
 Trentino-Alto Adige/Südtirol,Istruzione,112,116
 Lombardia,Istruzione,1121,20074
-Trentino-Alto Adige/Südtirol,Comuni,280,5702
+Trentino-Alto Adige/Südtirol,Comuni,280,5700
 Toscana,Istruzione,473,8453
 Umbria,Istruzione,139,2492
 Puglia,Comuni,254,9141
@@ -27,7 +27,7 @@ Umbria,Comuni,90,2461
 Friuli-Venezia Giulia,Istruzione,158,2799
 Abruzzo,Istruzione,191,3405
 Marche,Comuni,225,8061
-Piemonte,Comuni,1150,24661
+Piemonte,Comuni,1150,24660
 Campania,Comuni,537,17846
 Piemonte,Istruzione,535,9586
 Sardegna,Istruzione,236,4217
@@ -35,7 +35,7 @@ Abruzzo,Comuni,301,10389
 Molise,Istruzione,46,825
 Veneto,Comuni,557,24142
 Basilicata,Istruzione,86,1545
-Friuli-Venezia Giulia,Comuni,213,6344
 Puglia,Istruzione,573,10256
+Friuli-Venezia Giulia,Comuni,213,6344
 Lazio,Comuni,366,13693
 Molise,Comuni,134,5206
