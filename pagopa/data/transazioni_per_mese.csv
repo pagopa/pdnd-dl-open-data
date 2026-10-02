@@ -520,10 +520,10 @@ anno_mese,categoria,numero_transazioni
 2026-02,Università,535090
 2026-02,Utility,12173686
 2026-03,ACI,3678670
-2026-03,Altri enti territoriali,508085
+2026-03,Altri enti territoriali,508081
 2026-03,Comuni,5320808
 2026-03,Consorzi universitari,35559
-2026-03,Enti comunali,10385
+2026-03,Enti comunali,10389
 2026-03,Enti provinciali,253
 2026-03,Enti regionali,38
 2026-03,"Ordini, collegi e consigli professionali",674799
@@ -540,10 +540,10 @@ anno_mese,categoria,numero_transazioni
 2026-03,Università,720872
 2026-03,Utility,15093923
 2026-04,ACI,2946934
-2026-04,Altri enti territoriali,478459
+2026-04,Altri enti territoriali,478363
 2026-04,Comuni,5102630
 2026-04,Consorzi universitari,32959
-2026-04,Enti comunali,9903
+2026-04,Enti comunali,9999
 2026-04,Enti provinciali,345
 2026-04,Enti regionali,41
 2026-04,"Ordini, collegi e consigli professionali",470900
@@ -560,10 +560,10 @@ anno_mese,categoria,numero_transazioni
 2026-04,Università,538172
 2026-04,Utility,13239770
 2026-05,ACI,5569276
-2026-05,Altri enti territoriali,509788
+2026-05,Altri enti territoriali,509676
 2026-05,Comuni,5267599
 2026-05,Consorzi universitari,31860
-2026-05,Enti comunali,9655
+2026-05,Enti comunali,9767
 2026-05,Enti provinciali,255
 2026-05,Enti regionali,45
 2026-05,"Ordini, collegi e consigli professionali",331575
@@ -580,10 +580,10 @@ anno_mese,categoria,numero_transazioni
 2026-05,Università,677059
 2026-05,Utility,14863507
 2026-06,ACI,3967036
-2026-06,Altri enti territoriali,649371
+2026-06,Altri enti territoriali,649256
 2026-06,Comuni,6548489
 2026-06,Consorzi universitari,27374
-2026-06,Enti comunali,10065
+2026-06,Enti comunali,10180
 2026-06,Enti provinciali,125
 2026-06,Enti regionali,23
 2026-06,"Ordini, collegi e consigli professionali",442394
@@ -600,10 +600,10 @@ anno_mese,categoria,numero_transazioni
 2026-06,Università,436768
 2026-06,Utility,14991514
 2026-07,ACI,3433774
-2026-07,Altri enti territoriali,535736
+2026-07,Altri enti territoriali,535554
 2026-07,Comuni,6848501
 2026-07,Consorzi universitari,38782
-2026-07,Enti comunali,9163
+2026-07,Enti comunali,9345
 2026-07,Enti provinciali,85
 2026-07,Enti regionali,26
 2026-07,"Ordini, collegi e consigli professionali",191237
@@ -620,10 +620,10 @@ anno_mese,categoria,numero_transazioni
 2026-07,Università,436216
 2026-07,Utility,14274653
 2026-08,ACI,2520774
-2026-08,Altri enti territoriali,518920
+2026-08,Altri enti territoriali,518802
 2026-08,Comuni,4785095
 2026-08,Consorzi universitari,28066
-2026-08,Enti comunali,8385
+2026-08,Enti comunali,8503
 2026-08,Enti provinciali,21
 2026-08,Enti regionali,25
 2026-08,"Ordini, collegi e consigli professionali",75928
@@ -639,23 +639,41 @@ anno_mese,categoria,numero_transazioni
 2026-08,Tutte,30358309
 2026-08,Università,499847
 2026-08,Utility,12862231
-2026-09,ACI,5967258
-2026-09,Altri enti territoriali,592610
-2026-09,Comuni,6256692
+2026-09,ACI,5967286
+2026-09,Altri enti territoriali,592558
+2026-09,Comuni,6256783
 2026-09,Consorzi universitari,58502
-2026-09,Enti comunali,9205
+2026-09,Enti comunali,9260
 2026-09,Enti provinciali,97
 2026-09,Enti regionali,47
-2026-09,"Ordini, collegi e consigli professionali",144458
-2026-09,Province,176016
-2026-09,Pubbliche amministrazioni centrali,10623840
-2026-09,Regioni,1509560
+2026-09,"Ordini, collegi e consigli professionali",144460
+2026-09,Province,176017
+2026-09,Pubbliche amministrazioni centrali,10623997
+2026-09,Regioni,1509586
 2026-09,Ricerca,1644
-2026-09,Salute centrale,505427
-2026-09,Salute locale,1199164
+2026-09,Salute centrale,505432
+2026-09,Salute locale,1199173
 2026-09,Salute regionale,1551
 2026-09,Salute servizi,30006
-2026-09,Scuola,1363962
-2026-09,Tutte,44814712
-2026-09,Università,1167882
-2026-09,Utility,15194853
+2026-09,Scuola,1363992
+2026-09,Tutte,44815198
+2026-09,Università,1167917
+2026-09,Utility,15194952
+2026-10,ACI,213166
+2026-10,Altri enti territoriali,34843
+2026-10,Comuni,359164
+2026-10,Consorzi universitari,3143
+2026-10,Enti comunali,663
+2026-10,"Ordini, collegi e consigli professionali",6526
+2026-10,Province,7845
+2026-10,Pubbliche amministrazioni centrali,582668
+2026-10,Regioni,45440
+2026-10,Ricerca,47
+2026-10,Salute centrale,21814
+2026-10,Salute locale,53809
+2026-10,Salute regionale,6
+2026-10,Salute servizi,1761
+2026-10,Scuola,88802
+2026-10,Tutte,2366259
+2026-10,Università,40466
+2026-10,Utility,905371
