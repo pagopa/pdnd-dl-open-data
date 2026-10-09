@@ -1,5 +1,5 @@
 anno,regione,numero_comuni,percentuale_comuni
-Complessivo,Abruzzo,283,0.93
+Complessivo,Abruzzo,282,0.92
 Complessivo,Basilicata,124,0.95
 Complessivo,Calabria,376,0.93
 Complessivo,Campania,518,0.94
@@ -14,7 +14,7 @@ Complessivo,Piemonte,1008,0.85
 Complessivo,Puglia,253,0.98
 Complessivo,Sardegna,294,0.78
 Complessivo,Sicilia,358,0.92
-Complessivo,Toscana,258,0.95
+Complessivo,Toscana,259,0.95
 Complessivo,Trentino-Alto Adige/Südtirol,236,0.84
 Complessivo,Umbria,83,0.9
 Complessivo,Valle d'Aosta/Vallée d'Aoste,62,0.84
@@ -23,22 +23,22 @@ Complessivo,Veneto,532,0.95
 2026,Basilicata,29,0.22
 2026,Calabria,91,0.23
 2026,Campania,203,0.37
-2026,Emilia-Romagna,183,0.55
+2026,Emilia-Romagna,185,0.56
 2026,Friuli-Venezia Giulia,120,0.56
 2026,Lazio,167,0.44
-2026,Liguria,101,0.43
-2026,Lombardia,785,0.52
+2026,Liguria,102,0.44
+2026,Lombardia,787,0.52
 2026,Marche,87,0.39
 2026,Molise,46,0.34
-2026,Piemonte,520,0.44
+2026,Piemonte,522,0.44
 2026,Puglia,141,0.55
 2026,Sardegna,135,0.36
-2026,Sicilia,141,0.36
-2026,Toscana,189,0.69
-2026,Trentino-Alto Adige/Südtirol,104,0.37
+2026,Sicilia,142,0.36
+2026,Toscana,192,0.7
+2026,Trentino-Alto Adige/Südtirol,105,0.37
 2026,Umbria,61,0.66
 2026,Valle d'Aosta/Vallée d'Aoste,38,0.51
-2026,Veneto,331,0.59
+2026,Veneto,332,0.59
 2025,Abruzzo,164,0.54
 2025,Basilicata,53,0.4
 2025,Calabria,163,0.4
@@ -59,7 +59,7 @@ Complessivo,Veneto,532,0.95
 2025,Umbria,60,0.65
 2025,Valle d'Aosta/Vallée d'Aoste,31,0.42
 2025,Veneto,452,0.81
-2024,Abruzzo,131,0.43
+2024,Abruzzo,130,0.43
 2024,Basilicata,87,0.66
 2024,Calabria,175,0.43
 2024,Campania,297,0.54
